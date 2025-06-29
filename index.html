@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英雄联盟语音库</title>
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- 添加Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        :root {
+            --primary-color: #c8aa6e;
+            --dark-bg: #0e1429;
+            --panel-bg: rgba(10, 16, 36, 0.9);
+            --panel-border: #463714;
+            --text-color: #e8d7a0;
+            --hover-color: #463714;
+        }
+        
+        body {
+            background-color: var(--dark-bg);
+            color: var(--text-color);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            height: 100vh;
+            overflow: hidden;
+            position: relative;
+            margin: 0;
+        }
+        
+        .hero-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            background-size: cover;
+            background-position: center;
+            transition: background-image 0.8s ease;
+        }
+        
+        /* 折叠按钮 */
+        .fold-btn {
+            position: absolute;
+            z-index: 500;
+            background: var(--panel-bg);
+            border: 1px solid var(--panel-border);
+            color: var(--primary-color);
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 18px;
+            transition: all 0.3s ease;
+        }
+        
+        .fold-btn:hover {
+            background: var(--primary-color);
+            color: var(--dark-bg);
+        }
+        
+        #left-fold-btn {
+            top: 10px;
+            left: 10px;
+            transform: rotate(180deg);
+        }
+        
+        #top-fold-btn {
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        
+        #right-fold-btn {
+            top: 10px;
+            right: 10px;
+        }
+        
+        /* 主容器 */
+        .main-container {
+            display: flex;
+            height: 100vh;
+            padding: 10px;
+            gap: 10px;
+            transition: all 0.4s ease;
+        }
+        
+        /* 面板样式 */
+        .panel {
+            background: var(--panel-bg);
+            border: 1px solid var(--panel-border);
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(200, 170, 110, 0.2);
+            backdrop-filter: blur(5px);
+            padding: 15px;
+            transition: all 0.4s ease;
+            overflow: hidden;
+            height: calc(100% - 20px);
+        }
+        
+        /* 各面板宽度 */
+        .hero-list {
+            width: 250px;
+        }
+        
+        .skin-list {
+            width: 100%;
+            height: 180px; /* 增加高度 */
+        }
+        
+        .voice-list {
+            width: 300px;
+        }
+        
+        /* 面板头部 */
+        .panel-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--panel-border);
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+        
+        .panel-header h3 {
+            color: var(--primary-color);
+            font-size: 1.2rem;
+            margin: 0;
+        }
+        
+        .toggle-btn {
+            background: transparent;
+            border: 1px solid var(--primary-color);
+            color: var(--primary-color);
+            border-radius: 4px;
+            padding: 2px 8px;
+            cursor: pointer;
+            min-width: 30px;
+        }
+        
+        /* 列表容器 */
+        .list-container {
+            overflow-y: auto;
+            height: calc(100% - 40px);
+            scrollbar-width: thin;
+            scrollbar-color: var(--primary-color) var(--dark-bg);
+        }
+        
+        .list-container::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        .list-container::-webkit-scrollbar-track {
+            background: var(--dark-bg);
+        }
+        
+        .list-container::-webkit-scrollbar-thumb {
+            background-color: var(--primary-color);
+            border-radius: 4px;
+        }
+        
+        /* 列表项 */
+        .list-item {
+            padding: 12px;
+            cursor: pointer;
+            border: 1px solid transparent;
+            margin-bottom: 8px;
+            border-radius: 4px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            background: rgba(22, 31, 59, 0.6);
+        }
+        
+        .list-item:hover {
+            background: rgba(39, 52, 92, 0.7);
+            transform: translateX(2px);
+        }
+        
+        .list-item.active {
+            border-color: var(--primary-color);
+            background: rgba(39, 52, 92, 0.9);
+            box-shadow: 0 0 8px rgba(200, 170, 110, 0.4);
+        }
+        
+        /* 英雄项 */
+        .hero-item {
+            height: 60px;
+        }
+        
+        .hero-img {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            margin-right: 10px;
+            object-fit: cover;
+            border: 2px solid var(--panel-border);
+        }
+        
+        .hero-title {
+            font-size: 1rem;
+            font-weight: bold;
+        }
+        
+        .hero-name {
+            font-size: 0.85rem;
+            color: #9b8d6c;
+        }
+        
+        /* 皮肤项 */
+        .skin-img {
+            width: 100px;
+            height: 60px;
+            object-fit: cover;
+            border-radius: 4px;
+            margin-right: 10px;
+            border: 1px solid var(--panel-border);
+        }
+        
+        .skin-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 10px;
+        }
+        
+        /* 语音项 */
+        .voice-item {
+            padding: 10px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .voice-icon {
+            color: var(--primary-color);
+            margin-right: 10px;
+            font-size: 1.2rem;
+        }
+        
+        .voice-text {
+            font-size: 0.9rem;
+            flex-grow: 1;
+        }
+        
+        /* 字幕区域 */
+        .subtitle-container {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: rgba(10, 16, 36, 0.9);
+            padding: 15px 20px;
+            text-align: center;
+            border-top: 2px solid var(--primary-color);
+            font-size: 1.5rem;
+            transform: translateY(100%);
+            transition: transform 0.3s ease;
+            color: var(--text-color);
+            z-index: 100;
+        }
+        
+        .subtitle-container.show {
+            transform: translateY(0);
+        }
+        
+        /* 控制按钮 */
+        .controls {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 10px;
+            gap: 10px;
+        }
+        
+        .control-btn {
+            background: var(--panel-border);
+            color: var(--text-color);
+            border: none;
+            padding: 8px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.2s;
+        }
+        
+        .control-btn:hover {
+            background: var(--primary-color);
+            color: var(--dark-bg);
+        }
+        
+        /* 空状态 */
+        .no-data {
+            text-align: center;
+            padding: 30px;
+            color: #9b8d6c;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: var(--primary-color);
+        }
+        
+        /* 音频播放器 */
+        .player {
+            display: none;
+        }
+        
+        /* 折叠状态 */
+        .main-container.hide-left .hero-list {
+            display: none;
+        }
+        
+        .main-container.hide-top .skin-list {
+            display: none;
+        }
+        
+        .main-container.hide-right .voice-list {
+            display: none;
+        }
+        
+        .content-area {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+        
+        /* 皮肤列表高度调整 */
+        .skin-list .list-container {
+            height: calc(100% - 40px);
+        }
+        /* 右下角按钮容器样式 */
+        .footer-buttons {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            display: flex;
+            gap: 10px;
+            z-index: 400;
+        }
+        
+        .footer-btn {
+            background: var(--panel-bg);
+            border: 1px solid var(--panel-border);
+            color: var(--text-color);
+            padding: 8px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .footer-btn:hover {
+            background: var(--primary-color);
+            color: var(--dark-bg);
+        }
+        
+        /* 模态框样式调整 */
+        .modal-content {
+            background-color: var(--panel-bg);
+            color: var(--text-color);
+            border: 1px solid var(--panel-border);
+        }
+        
+        .modal-header, .modal-footer {
+            border-color: var(--panel-border);
+        }
+        
+        .btn-close {
+            filter: invert(0.7);
+        }
+        
+        /* 控制按钮容器 */
+        .controls {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 10px;
+            gap: 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- 英雄海报背景 -->
+    <div class="hero-bg" id="heroBackground"></div>
+    
+    <!-- 折叠控制按钮 -->
+    <button id="left-fold-btn" class="fold-btn">◀</button>
+    <button id="top-fold-btn" class="fold-btn">▼</button>
+    <button id="right-fold-btn" class="fold-btn">◀</button>
+    
+    <!-- 主容器 -->
+    <div class="main-container">
+        <!-- 左侧英雄列表 -->
+        <div class="panel hero-list">
+            <div class="panel-header">
+                <h3>英雄列表</h3>
+                <button class="toggle-btn" onclick="togglePanel('left')">-</button>
+            </div>
+            <div class="list-container" id="heroList">
+                <div class="loading">加载英雄数据中...</div>
+            </div>
+        </div>
+        
+        <!-- 中间区域 -->
+        <div class="content-area">
+            <!-- 顶部皮肤列表 -->
+            <div class="panel skin-list">
+                <div class="panel-header">
+                    <h3>皮肤列表</h3>
+                    <button class="toggle-btn" onclick="togglePanel('top')">-</button>
+                </div>
+                <div class="list-container" id="skinList">
+                    <div class="no-data">请先选择英雄</div>
+                </div>
+            </div>
+            
+            <!-- 内容区 - 已移除多余内容 -->
+            <div style="flex: 1;"></div>
+        </div>
+        
+        <!-- 右侧语音列表 -->
+        <div class="panel voice-list">
+            <div class="panel-header">
+                <h3>语音列表</h3>
+                <button class="toggle-btn" onclick="togglePanel('right')">-</button>
+            </div>
+            <div class="list-container" id="voiceList">
+                <div class="no-data">请先选择皮肤</div>
+            </div>
+            <div class="controls">
+                <button class="control-btn" id="playAllBtn">
+                    <span class="icon">▶</span> 顺序播放
+                </button>
+                <!-- 新增循环播放按钮 -->
+                <button class="control-btn" id="loopPlayBtn">
+                    <span class="icon">🔁</span> 循环播放
+                </button>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 字幕容器 -->
+    <div class="subtitle-container" id="subtitle"></div>
+    
+    <!-- 音频播放器 -->
+    <audio class="player" id="audioPlayer"></audio>
+    
+    <!-- 右下角按钮 -->
+    <div class="footer-buttons">
+        <button class="footer-btn" id="githubBtn">
+            <span>GitHub</span>
+        </button>
+        <button class="footer-btn" id="aboutBtn">
+            <span>关于</span>
+        </button>
+    </div>
+    
+    <!-- 关于模态框 -->
+    <div class="modal fade" id="aboutModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">关于</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="text-center mb-4">
+                        <div style="font-size: 4rem; color: #c8aa6e;">
+                            <i class="bi bi-mic"></i>
+                        </div>
+                        <h4>英雄联盟语音库</h4>
+                    </div>
+                    <p>这是一个英雄联盟语音库网页，用于探索和欣赏游戏中英雄的语音。</p>
+                    <p><strong>主要功能：</strong></p>
+                    <ul>
+                        <li>浏览所有英雄和他们的皮肤</li>
+                        <li>查看每个皮肤对应的语音台词</li>
+                        <li>播放选中的语音并显示字幕</li>
+                        <li>顺序播放或循环播放语音列表</li>
+                    </ul>
+                    <hr style="border-color: #463714">
+                    <p>站长：哀歌殇年</p>
+                    <p>QQ：2690034441</p>
+                    <p class="mt-3"><i class="bi bi-exclamation-circle me-1"></i> 本工具仅用于个人学习和欣赏，所有素材版权归拳头游戏(Riot Games)所有。</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">关闭</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // 全局变量
+        let championData = null;
+        let skinData = null;
+        let soundData = null;
+        let currentChampion = null;
+        let currentSkin = null;
+        let currentSound = null;
+        let isPlayingAll = false;
+        let isLooping = false;
+        let playQueue = [];
+        let currentPlayingIndex = -1;
+        let loopInterval = null;
+        
+        // DOM加载完成后初始化
+        document.addEventListener('DOMContentLoaded', () => {
+            // 初始化界面
+            loadData();
+            
+            // 注册事件监听
+            document.getElementById('playAllBtn').addEventListener('click', togglePlayAll);
+            document.getElementById('loopPlayBtn').addEventListener('click', toggleLoopPlay);
+            document.getElementById('audioPlayer').addEventListener('ended', playNextSound);
+            
+            // 折叠按钮
+            document.getElementById('left-fold-btn').addEventListener('click', () => togglePanel('left'));
+            document.getElementById('top-fold-btn').addEventListener('click', () => togglePanel('top'));
+            document.getElementById('right-fold-btn').addEventListener('click', () => togglePanel('right'));
+            
+            // 右下角按钮
+            document.getElementById('githubBtn').addEventListener('click', () => {
+                window.open("https://www.example.com");
+            });
+            
+            document.getElementById('aboutBtn').addEventListener('click', () => {
+                // 显示关于模态框
+                const aboutModal = new bootstrap.Modal(document.getElementById('aboutModal'));
+                aboutModal.show();
+            });
+        });
+        
+        // 加载JSON数据
+        async function loadData() {
+            try {
+                // 显示加载状态
+                document.getElementById('heroList').innerHTML = '<div class="loading">加载英雄数据中...</div>';
+                
+                // 使用Promise.all同时加载所有文件
+                const [championRes, skinRes, soundRes] = await Promise.all([
+                    fetch('data/champion.json'),
+                    fetch('data/skin.json'),
+                    fetch('data/sound.json')
+                ]);
+                
+                // 检查所有响应是否成功
+                if (!championRes.ok || !skinRes.ok || !soundRes.ok) {
+                    throw new Error('部分JSON文件加载失败');
+                }
+                
+                // 解析JSON
+                championData = await championRes.json();
+                skinData = await skinRes.json();
+                soundData = await soundRes.json();
+                
+                // 数据加载完成后初始化界面
+                renderChampionList();
+                if (championData.champions.length > 0) {
+                    selectChampion(championData.champions[0].id);
+                }
+            } catch (error) {
+                console.error('数据加载错误:', error);
+                // 显示错误信息
+                document.getElementById('heroList').innerHTML = '<div class="no-data">英雄数据加载失败</div>';
+                document.getElementById('skinList').innerHTML = '<div class="no-data">皮肤数据加载失败</div>';
+                document.getElementById('voiceList').innerHTML = '<div class="no-data">语音数据加载失败</div>';
+            }
+        }
+        
+        // 渲染英雄列表
+        function renderChampionList() {
+            const container = document.getElementById('heroList');
+            container.innerHTML = '';
+            
+            if (!championData || !championData.champions || championData.champions.length === 0) {
+                container.innerHTML = '<div class="no-data">没有可用的英雄数据</div>';
+                return;
+            }
+            
+            championData.champions.forEach(champ => {
+                const heroEl = document.createElement('div');
+                heroEl.className = 'list-item hero-item';
+                heroEl.dataset.id = champ.id;
+                heroEl.innerHTML = `
+                    <img class="hero-img" src="icon/${champ.id}.jpg" onerror="this.src='https://via.placeholder.com/50/0e1429/c8aa6e?text=Hero'">
+                    <div>
+                        <div class="hero-title">${champ.name}</div>
+                        <div class="hero-name">${champ.title}</div>
+                    </div>
+                `;
+                heroEl.addEventListener('click', () => selectChampion(champ.id));
+                container.appendChild(heroEl);
+            });
+        }
+        
+        // 渲染皮肤列表
+        function renderSkinList(champion) {
+            const container = document.getElementById('skinList');
+            container.innerHTML = '';
+            
+            if (!champion) {
+                container.innerHTML = '<div class="no-data">请先选择英雄</div>';
+                return;
+            }
+            
+            if (!skinData) {
+                container.innerHTML = '<div class="no-data">皮肤数据未加载</div>';
+                return;
+            }
+            
+            // 创建网格容器
+            const grid = document.createElement('div');
+            grid.className = 'skin-grid';
+            container.appendChild(grid);
+            
+            // 获取该英雄的所有皮肤
+            const skins = skinData.skins.filter(skin => champion.skinIds.includes(skin.id));
+            
+            if (skins.length === 0) {
+                container.innerHTML = '<div class="no-data">该英雄暂无可用皮肤</div>';
+                return;
+            }
+            
+            skins.forEach(skin => {
+                const skinEl = document.createElement('div');
+                skinEl.className = `list-item skin-item ${currentSkin?.id === skin.id ? 'active' : ''}`;
+                skinEl.dataset.id = skin.id;
+                skinEl.innerHTML = `
+                    <img class="skin-img" src="skin/${skin.id}.jpg" onerror="this.src='https://via.placeholder.com/100x60/0e1429/c8aa6e?text=SK'">
+                    <span>${skin.name}</span>
+                `;
+                skinEl.addEventListener('click', () => selectSkin(skin.id));
+                grid.appendChild(skinEl);
+            });
+        }
+        
+        // 渲染语音列表
+        function renderVoiceList(skin) {
+            const container = document.getElementById('voiceList');
+            container.innerHTML = '';
+            
+            if (!skin) {
+                container.innerHTML = '<div class="no-data">请先选择皮肤</div>';
+                return;
+            }
+            
+            if (!soundData) {
+                container.innerHTML = '<div class="no-data">语音数据未加载</div>';
+                return;
+            }
+            
+            // 获取该皮肤的所有语音
+            const voices = skin.soundIds.map(id => soundData.sounds.find(sound => sound.id === id)).filter(Boolean);
+            
+            if (voices.length === 0) {
+                container.innerHTML = '<div class="no-data">该皮肤暂无可用语音</div>';
+                return;
+            }
+            
+            voices.forEach(voice => {
+                const voiceEl = document.createElement('div');
+                voiceEl.className = `list-item voice-item ${currentSound?.id === voice.id ? 'active' : ''}`;
+                voiceEl.dataset.id = voice.id;
+                voiceEl.innerHTML = `
+                    <div class="voice-icon">🔊</div>
+                    <div class="voice-text">${voice.text}</div>
+                `;
+                voiceEl.addEventListener('click', () => selectSound(voice.id));
+                container.appendChild(voiceEl);
+            });
+        }
+        
+        // 选择英雄
+        function selectChampion(champId) {
+            const heroItems = document.querySelectorAll('#heroList .list-item');
+            heroItems.forEach(item => item.classList.remove('active'));
+            const selectedItem = document.querySelector(`#heroList .hero-item[data-id="${champId}"]`);
+            if (selectedItem) selectedItem.classList.add('active');
+            
+            const champ = championData.champions.find(c => c.id === champId);
+            if (!champ) return;
+            
+            currentChampion = champ;
+            currentSkin = null;
+            currentSound = null;
+            
+            // 停止任何正在进行的播放
+            stopAllPlayback();
+            
+            // 更新背景
+            updateBackground(`champion/${champId}.jpg`);
+            
+            // 渲染皮肤列表
+            renderSkinList(champ);
+            
+            // 清除语音列表
+            document.getElementById('voiceList').innerHTML = '<div class="no-data">请先选择皮肤</div>';
+        }
+        
+        // 选择皮肤
+        function selectSkin(skinId) {
+            if (!currentChampion) return;
+            
+            const skinItems = document.querySelectorAll('#skinList .list-item');
+            skinItems.forEach(item => item.classList.remove('active'));
+            const selectedItem = document.querySelector(`#skinList .skin-item[data-id="${skinId}"]`);
+            if (selectedItem) selectedItem.classList.add('active');
+            
+            const skin = skinData.skins.find(s => s.id === skinId);
+            if (!skin) return;
+            
+            currentSkin = skin;
+            currentSound = null;
+            
+            // 停止任何正在进行的播放
+            stopAllPlayback();
+            
+            // 更新背景（使用皮肤图片）
+            updateBackground(`skin/${skinId}.jpg`);
+            
+            // 渲染语音列表
+            renderVoiceList(skin);
+        }
+        
+        // 更新背景
+        function updateBackground(imagePath) {
+            const bgContainer = document.getElementById('heroBackground');
+            bgContainer.style.backgroundImage = `url('${imagePath}')`;
+        }
+        
+        // 选择语音
+        function selectSound(soundId) {
+            if (!currentSkin) return;
+            
+            // 停止循环播放
+            stopLoopPlay();
+            
+            const soundItems = document.querySelectorAll('#voiceList .list-item');
+            soundItems.forEach(item => item.classList.remove('active'));
+            const selectedItem = document.querySelector(`#voiceList .voice-item[data-id="${soundId}"]`);
+            if (selectedItem) selectedItem.classList.add('active');
+            
+            const sound = soundData.sounds.find(s => s.id === soundId);
+            if (!sound) return;
+            
+            currentSound = sound;
+            playSound(sound.id);
+        }
+        
+        // 播放语音
+        function playSound(soundId) {
+            const player = document.getElementById('audioPlayer');
+            player.src = `sound/${soundId}.wav`;
+            
+            // 显示字幕
+            const sound = soundData.sounds.find(s => s.id === soundId);
+            if (sound) {
+                const subtitle = document.getElementById('subtitle');
+                subtitle.textContent = sound.text;
+                subtitle.classList.add('show');
+                
+                setTimeout(() => {
+                    subtitle.classList.remove('show');
+                }, 3000);
+            }
+            
+            // 尝试播放语音
+            player.play().catch(error => {
+                console.warn('语音播放失败:', error);
+                // 在本地开发时，模拟播放
+                if (error.name === 'NotAllowedError') {
+                    console.warn('由于权限问题无法播放音频，转为后台模拟播放');
+                    
+                    // 模拟3秒的播放时间
+                    setTimeout(() => {
+                        const event = new Event('ended');
+                        player.dispatchEvent(event);
+                    }, 3000);
+                }
+            });
+        }
+        
+        // 切换顺序播放
+        function togglePlayAll() {
+            if (!currentSkin) return;
+            
+            const playBtn = document.getElementById('playAllBtn');
+            
+            if (isPlayingAll) {
+                // 停止播放
+                isPlayingAll = false;
+                playBtn.innerHTML = `<span class="icon">▶</span> 顺序播放`;
+                
+                // 暂停当前语音
+                const player = document.getElementById('audioPlayer');
+                player.pause();
+            } else {
+                // 停止循环播放
+                stopLoopPlay();
+                
+                // 开始播放
+                isPlayingAll = true;
+                playBtn.innerHTML = `<span class="icon">⏸️</span> 停止播放`;
+                
+                // 获取当前选中的语音索引
+                let startIndex = 0;
+                if (currentSound) {
+                    startIndex = currentSkin.soundIds.indexOf(currentSound.id);
+                    if (startIndex === -1) startIndex = 0;
+                }
+                
+                playQueue = currentSkin.soundIds;
+                currentPlayingIndex = startIndex;
+                playSoundFromQueue();
+            }
+        }
+        
+        // 切换循环播放
+        function toggleLoopPlay() {
+            if (!currentSkin) return;
+            
+            const loopBtn = document.getElementById('loopPlayBtn');
+            
+            if (isLooping) {
+                // 停止循环
+                stopLoopPlay();
+            } else {
+                // 停止顺序播放
+                stopPlayAll();
+                
+                // 开始循环播放
+                isLooping = true;
+                loopBtn.innerHTML = `<span class="icon">⏹️</span> 停止循环`;
+                
+                // 创建播放队列（当前项开始）
+                playQueue = currentSkin.soundIds;
+                currentPlayingIndex = currentSound ? 
+                    currentSkin.soundIds.indexOf(currentSound.id) : 0;
+                if (currentPlayingIndex === -1) currentPlayingIndex = 0;
+                
+                // 直接开始播放
+                playSoundFromQueue();
+                
+                // 设置自动间隔循环
+                loopInterval = setInterval(() => {
+                    playSoundFromQueue();
+                }, 3000); // 3秒间隔
+            }
+        }
+        
+        // 播放队列中的语音
+        function playSoundFromQueue() {
+            if (currentPlayingIndex >= 0 && currentPlayingIndex < playQueue.length) {
+                const soundId = playQueue[currentPlayingIndex];
+                selectSound(soundId);
+                
+                // 增加索引（循环播放模式则设置循环索引）
+                currentPlayingIndex++;
+                if (currentPlayingIndex >= playQueue.length) {
+                    currentPlayingIndex = 0;
+                }
+            }
+        }
+        
+        // 停止顺序播放
+        function stopPlayAll() {
+            if (isPlayingAll) {
+                isPlayingAll = false;
+                document.getElementById('playAllBtn').innerHTML = `<span class="icon">▶</span> 顺序播放`;
+                const player = document.getElementById('audioPlayer');
+                player.pause();
+            }
+        }
+        
+        // 停止循环播放
+        function stopLoopPlay() {
+            if (isLooping) {
+                isLooping = false;
+                document.getElementById('loopPlayBtn').innerHTML = `<span class="icon">🔁</span> 循环播放`;
+                clearInterval(loopInterval);
+                loopInterval = null;
+            }
+        }
+        
+        // 停止所有播放
+        function stopAllPlayback() {
+            stopPlayAll();
+            stopLoopPlay();
+            
+            const player = document.getElementById('audioPlayer');
+            player.pause();
+            player.src = '';
+        }
+        
+        // 播放下一个
+        function playNextSound() {
+            if (isLooping) {
+                // 循环播放由定时器控制，不需要额外处理
+            } else if (isPlayingAll) {
+                // 顺序播放模式
+                currentPlayingIndex++;
+                if (currentPlayingIndex >= playQueue.length) {
+                    // 顺序播放结束
+                    isPlayingAll = false;
+                    document.getElementById('playAllBtn').innerHTML = `<span class="icon">▶</span> 顺序播放`;
+                    return;
+                }
+                playSoundFromQueue();
+            }
+        }
+        
+        // 切换面板显示
+        function togglePanel(position) {
+            const mainContainer = document.querySelector('.main-container');
+            
+            switch(position) {
+                case 'left':
+                    mainContainer.classList.toggle('hide-left');
+                    document.getElementById('left-fold-btn').textContent = 
+                        mainContainer.classList.contains('hide-left') ? '▶' : '◀';
+                    break;
+                case 'right':
+                    mainContainer.classList.toggle('hide-right');
+                    document.getElementById('right-fold-btn').textContent = 
+                        mainContainer.classList.contains('hide-right') ? '▶' : '◀';
+                    break;
+                case 'top':
+                    mainContainer.classList.toggle('hide-top');
+                    document.getElementById('top-fold-btn').textContent = 
+                        mainContainer.classList.contains('hide-top') ? '▲' : '▼';
+                    break;
+            }
+        }
+    </script>
+</body>
+</html>

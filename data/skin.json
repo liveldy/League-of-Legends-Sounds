@@ -1,0 +1,9684 @@
+{
+  "skins": [
+    {
+      "id": 1,
+      "name": "黑暗之女",
+      "soundIds": []
+    },
+    {
+      "id": 2,
+      "name": "哥特萝莉 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 3,
+      "name": "小红帽 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 4,
+      "name": "安妮梦游仙境",
+      "soundIds": []
+    },
+    {
+      "id": 5,
+      "name": "舞会公主 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 6,
+      "name": "冰霜烈焰 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 7,
+      "name": "安伯斯与提妮",
+      "soundIds": []
+    },
+    {
+      "id": 8,
+      "name": "科学怪熊的新娘 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 9,
+      "name": "“你看见过我的熊猫吗？”安妮",
+      "soundIds": []
+    },
+    {
+      "id": 10,
+      "name": "甜心宝贝 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 11,
+      "name": "海克斯科技 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 12,
+      "name": "银河魔装机神 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 13,
+      "name": "十周年纪念 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 14,
+      "name": "福牛守护者 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 15,
+      "name": "咖啡甜心 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 16,
+      "name": "魔域梦魇 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 17,
+      "name": "北极星使者 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 18,
+      "name": "战斗公主 安妮",
+      "soundIds": []
+    },
+    {
+      "id": 19,
+      "name": "狂战士",
+      "soundIds": []
+    },
+    {
+      "id": 20,
+      "name": "烈焰猛士 奥拉夫",
+      "soundIds": []
+    },
+    {
+      "id": 21,
+      "name": "冰河时代 奥拉夫",
+      "soundIds": []
+    },
+    {
+      "id": 22,
+      "name": "铁哥们儿 奥拉夫",
+      "soundIds": []
+    },
+    {
+      "id": 23,
+      "name": "五杀摇滚鼓手 奥拉夫",
+      "soundIds": []
+    },
+    {
+      "id": 24,
+      "name": "黑暗骑士 奥拉夫",
+      "soundIds": []
+    },
+    {
+      "id": 25,
+      "name": "牛扒狂战 奥拉夫",
+      "soundIds": []
+    },
+    {
+      "id": 26,
+      "name": "SKT T1 奥拉夫",
+      "soundIds": []
+    },
+    {
+      "id": 27,
+      "name": "屠龙勇士 奥拉夫",
+      "soundIds": []
+    },
+    {
+      "id": 28,
+      "name": "光明哨兵 奥拉夫",
+      "soundIds": []
+    },
+    {
+      "id": 29,
+      "name": "五杀摇滚 III：遗失的章节 奥拉夫",
+      "soundIds": []
+    },
+    {
+      "id": 30,
+      "name": "地狱火 奥拉夫",
+      "soundIds": []
+    },
+    {
+      "id": 31,
+      "name": "正义巨像",
+      "soundIds": []
+    },
+    {
+      "id": 32,
+      "name": "幽蓝梦魇 加里奥",
+      "soundIds": []
+    },
+    {
+      "id": 33,
+      "name": "机械迷城 加里奥",
+      "soundIds": []
+    },
+    {
+      "id": 34,
+      "name": "战地之王 加里奥",
+      "soundIds": []
+    },
+    {
+      "id": 35,
+      "name": "地狱之门卫士 加里奥",
+      "soundIds": []
+    },
+    {
+      "id": 36,
+      "name": "风执事 加里奥",
+      "soundIds": []
+    },
+    {
+      "id": 37,
+      "name": "鸡里奥",
+      "soundIds": []
+    },
+    {
+      "id": 38,
+      "name": "地狱火 加里奥",
+      "soundIds": []
+    },
+    {
+      "id": 39,
+      "name": "龙族卫士 加里奥",
+      "soundIds": []
+    },
+    {
+      "id": 40,
+      "name": "剪纸仙灵 加里奥",
+      "soundIds": []
+    },
+    {
+      "id": 41,
+      "name": "卡牌大师",
+      "soundIds": []
+    },
+    {
+      "id": 42,
+      "name": "蓝色忧郁 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 43,
+      "name": "红桃杰克 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 44,
+      "name": "魔幻卡牌 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 45,
+      "name": "探戈灵魂 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 46,
+      "name": "西部牛仔 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 47,
+      "name": "皇家火枪手 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 48,
+      "name": "地底世界 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 49,
+      "name": "逆转裁判 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 50,
+      "name": "逍遥赌侠 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 51,
+      "name": "腥红之月 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 52,
+      "name": "未来战士 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 53,
+      "name": "奥德赛 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 54,
+      "name": "DWG 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 55,
+      "name": "地下都市 梦魇 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 56,
+      "name": "太空律动 “万能舞王” 崔斯特",
+      "soundIds": []
+    },
+    {
+      "id": 57,
+      "name": "德邦总管",
+      "soundIds": []
+    },
+    {
+      "id": 58,
+      "name": "特战先锋 赵信",
+      "soundIds": []
+    },
+    {
+      "id": 59,
+      "name": "皇家守卫 赵信",
+      "soundIds": []
+    },
+    {
+      "id": 60,
+      "name": "绞肉机角斗士 赵信",
+      "soundIds": []
+    },
+    {
+      "id": 61,
+      "name": "翼骑统领 赵信",
+      "soundIds": []
+    },
+    {
+      "id": 62,
+      "name": "赵云 子龙",
+      "soundIds": []
+    },
+    {
+      "id": 63,
+      "name": "秘密特工 赵信",
+      "soundIds": []
+    },
+    {
+      "id": 64,
+      "name": "屠龙勇士 赵信",
+      "soundIds": []
+    },
+    {
+      "id": 65,
+      "name": "穿星魔锋 赵信",
+      "soundIds": []
+    },
+    {
+      "id": 66,
+      "name": "黑暗骑士 赵信",
+      "soundIds": []
+    },
+    {
+      "id": 67,
+      "name": "猛虎下山 赵信",
+      "soundIds": []
+    },
+    {
+      "id": 68,
+      "name": "无畏战车",
+      "soundIds": []
+    },
+    {
+      "id": 69,
+      "name": "深渊巨蟹 厄加特",
+      "soundIds": []
+    },
+    {
+      "id": 70,
+      "name": "电锯狂人 厄加特",
+      "soundIds": []
+    },
+    {
+      "id": 71,
+      "name": "战地机甲 厄加特",
+      "soundIds": []
+    },
+    {
+      "id": 72,
+      "name": "西部魔影 厄加特",
+      "soundIds": []
+    },
+    {
+      "id": 73,
+      "name": "星之守护者COS 厄加特",
+      "soundIds": []
+    },
+    {
+      "id": 74,
+      "name": "魔域梦魇 厄加特",
+      "soundIds": []
+    },
+    {
+      "id": 75,
+      "name": "诡术妖姬",
+      "soundIds": []
+    },
+    {
+      "id": 76,
+      "name": "潮流女王 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 77,
+      "name": "社会名流 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 78,
+      "name": "幸福女神 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 79,
+      "name": "邪鸦魅影 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 80,
+      "name": "永恒之森 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 81,
+      "name": "源代码 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 82,
+      "name": "iG 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 83,
+      "name": "魔女 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 84,
+      "name": "冠军蔷薇 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 85,
+      "name": "至臻 魔女 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 86,
+      "name": "幻执事 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 87,
+      "name": "魅惑女巫 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 88,
+      "name": "殿堂传奇 乐芙兰",
+      "soundIds": []
+    },
+    {
+      "id": 89,
+      "name": "猩红收割者",
+      "soundIds": []
+    },
+    {
+      "id": 90,
+      "name": "弗拉基米尔伯爵",
+      "soundIds": []
+    },
+    {
+      "id": 91,
+      "name": "弗拉基米尔侯爵",
+      "soundIds": []
+    },
+    {
+      "id": 92,
+      "name": "诺斯费拉图  弗拉基米尔",
+      "soundIds": []
+    },
+    {
+      "id": 93,
+      "name": "霹雳游侠 弗拉基米尔",
+      "soundIds": []
+    },
+    {
+      "id": 94,
+      "name": "血石领主 弗拉基米尔",
+      "soundIds": []
+    },
+    {
+      "id": 95,
+      "name": "摄魂男爵 弗拉基米尔",
+      "soundIds": []
+    },
+    {
+      "id": 96,
+      "name": "学生会长 弗拉基米尔",
+      "soundIds": []
+    },
+    {
+      "id": 97,
+      "name": "黑潮 弗拉基米尔",
+      "soundIds": []
+    },
+    {
+      "id": 98,
+      "name": "黑夜使者 弗拉基米尔",
+      "soundIds": []
+    },
+    {
+      "id": 99,
+      "name": "波江星神 弗拉基米尔",
+      "soundIds": []
+    },
+    {
+      "id": 100,
+      "name": "咖啡甜心 弗拉基米尔",
+      "soundIds": []
+    },
+    {
+      "id": 101,
+      "name": "绝息圣堂 弗拉基米尔",
+      "soundIds": []
+    },
+    {
+      "id": 102,
+      "name": "黑色玫瑰假面舞会 弗拉基米尔",
+      "soundIds": []
+    },
+    {
+      "id": 103,
+      "name": "远古恐惧",
+      "soundIds": []
+    },
+    {
+      "id": 104,
+      "name": "幽魂 费德提克",
+      "soundIds": []
+    },
+    {
+      "id": 105,
+      "name": "联合王国 费德提克",
+      "soundIds": []
+    },
+    {
+      "id": 106,
+      "name": "荒野幽灵 费德提克",
+      "soundIds": []
+    },
+    {
+      "id": 107,
+      "name": "南瓜头 费德提克",
+      "soundIds": []
+    },
+    {
+      "id": 108,
+      "name": "铁钩船长 费德提克",
+      "soundIds": []
+    },
+    {
+      "id": 109,
+      "name": "惊悚派对 费德提克",
+      "soundIds": []
+    },
+    {
+      "id": 110,
+      "name": "糖果使徒 费德提克",
+      "soundIds": []
+    },
+    {
+      "id": 111,
+      "name": "重生之沙 费德提克",
+      "soundIds": []
+    },
+    {
+      "id": 112,
+      "name": "禁卫机甲 费德提克",
+      "soundIds": []
+    },
+    {
+      "id": 113,
+      "name": "星之吞噬者 费德提克",
+      "soundIds": []
+    },
+    {
+      "id": 114,
+      "name": "腥红之月 费德提克",
+      "soundIds": []
+    },
+    {
+      "id": 115,
+      "name": "正义天使",
+      "soundIds": []
+    },
+    {
+      "id": 116,
+      "name": "银白审判 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 117,
+      "name": "末世天使 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 118,
+      "name": "大天使长米迦勒 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 119,
+      "name": "战场女武神 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 120,
+      "name": "圣光审判 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 121,
+      "name": "钢铁之翼 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 122,
+      "name": "防暴天使 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 123,
+      "name": "钢铁审判官 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 124,
+      "name": "五杀摇滚女声主唱 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 125,
+      "name": "灵能特工 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 126,
+      "name": "屠龙勇士 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 127,
+      "name": "五杀摇滚 III：遗失的章节 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 128,
+      "name": "食日天使 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 129,
+      "name": "玉剑传说 翼剑仙",
+      "soundIds": []
+    },
+    {
+      "id": 130,
+      "name": "至高天 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 131,
+      "name": "至臻 至高天 凯尔",
+      "soundIds": []
+    },
+    {
+      "id": 132,
+      "name": "无极剑圣",
+      "soundIds": []
+    },
+    {
+      "id": 133,
+      "name": "暗影 易",
+      "soundIds": []
+    },
+    {
+      "id": 134,
+      "name": "星战 易",
+      "soundIds": []
+    },
+    {
+      "id": 135,
+      "name": "天人合一 易",
+      "soundIds": []
+    },
+    {
+      "id": 136,
+      "name": "侍魂 易",
+      "soundIds": []
+    },
+    {
+      "id": 137,
+      "name": "铁血剑豪 易",
+      "soundIds": []
+    },
+    {
+      "id": 138,
+      "name": "源计划：林 易",
+      "soundIds": []
+    },
+    {
+      "id": 139,
+      "name": "斩星魔剑 易",
+      "soundIds": []
+    },
+    {
+      "id": 140,
+      "name": "玉剑传说 无极",
+      "soundIds": []
+    },
+    {
+      "id": 141,
+      "name": "持胡萝卜的雪人 易",
+      "soundIds": []
+    },
+    {
+      "id": 142,
+      "name": "腥红之月 易",
+      "soundIds": []
+    },
+    {
+      "id": 143,
+      "name": "灵能特工 易",
+      "soundIds": []
+    },
+    {
+      "id": 144,
+      "name": "无极执事 易",
+      "soundIds": []
+    },
+    {
+      "id": 145,
+      "name": "灵魂莲华 易",
+      "soundIds": []
+    },
+    {
+      "id": 146,
+      "name": "至臻 灵魂莲华 易",
+      "soundIds": []
+    },
+    {
+      "id": 147,
+      "name": "墨之影武者 易",
+      "soundIds": []
+    },
+    {
+      "id": 148,
+      "name": "天龙之子 易",
+      "soundIds": []
+    },
+    {
+      "id": 149,
+      "name": "胜利剑圣 易",
+      "soundIds": []
+    },
+    {
+      "id": 150,
+      "name": "牛头酋长",
+      "soundIds": []
+    },
+    {
+      "id": 151,
+      "name": "暗黑灵魂 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 152,
+      "name": "金牛座 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 153,
+      "name": "斗牛士 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 154,
+      "name": "荒野镖客 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 155,
+      "name": "巨角幻兽 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 156,
+      "name": "地狱火 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 157,
+      "name": "后场堡垒 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 158,
+      "name": "黑暗骑士 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 159,
+      "name": "SKT T1 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 160,
+      "name": "哞利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 161,
+      "name": "海克斯科技 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 162,
+      "name": "征服者 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 163,
+      "name": "黯晶巨牛 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 164,
+      "name": "福牛守护者 阿利斯塔",
+      "soundIds": []
+    },
+    {
+      "id": 165,
+      "name": "符文法师",
+      "soundIds": []
+    },
+    {
+      "id": 166,
+      "name": "青年 瑞兹",
+      "soundIds": []
+    },
+    {
+      "id": 167,
+      "name": "部落精神 瑞兹",
+      "soundIds": []
+    },
+    {
+      "id": 168,
+      "name": "美国大叔 瑞兹",
+      "soundIds": []
+    },
+    {
+      "id": 169,
+      "name": "守护者雕像 瑞兹",
+      "soundIds": []
+    },
+    {
+      "id": 170,
+      "name": "宗师级法师训练师 瑞兹",
+      "soundIds": []
+    },
+    {
+      "id": 171,
+      "name": "至死不渝 瑞兹",
+      "soundIds": []
+    },
+    {
+      "id": 172,
+      "name": "恶魔男爵 瑞兹",
+      "soundIds": []
+    },
+    {
+      "id": 173,
+      "name": "海贼 瑞兹",
+      "soundIds": []
+    },
+    {
+      "id": 174,
+      "name": "瑞兹·白须",
+      "soundIds": []
+    },
+    {
+      "id": 175,
+      "name": "SKT T1 瑞兹",
+      "soundIds": []
+    },
+    {
+      "id": 176,
+      "name": "冠军之志 瑞兹",
+      "soundIds": []
+    },
+    {
+      "id": 177,
+      "name": "沙之守护 瑞兹",
+      "soundIds": []
+    },
+    {
+      "id": 178,
+      "name": "孤勇之隐 瑞兹",
+      "soundIds": []
+    },
+    {
+      "id": 179,
+      "name": "亡灵战神",
+      "soundIds": []
+    },
+    {
+      "id": 180,
+      "name": "钢铁终结者 赛恩",
+      "soundIds": []
+    },
+    {
+      "id": 181,
+      "name": "武仙座海格力斯 赛恩",
+      "soundIds": []
+    },
+    {
+      "id": 182,
+      "name": "原野伐木工 赛恩",
+      "soundIds": []
+    },
+    {
+      "id": 183,
+      "name": "战争机器 赛恩",
+      "soundIds": []
+    },
+    {
+      "id": 184,
+      "name": "霸天零式 赛恩",
+      "soundIds": []
+    },
+    {
+      "id": 185,
+      "name": "创世之神 赛恩",
+      "soundIds": []
+    },
+    {
+      "id": 186,
+      "name": "黯晶战神 赛恩",
+      "soundIds": []
+    },
+    {
+      "id": 187,
+      "name": "西部魔影 合成天使 赛恩",
+      "soundIds": []
+    },
+    {
+      "id": 188,
+      "name": "星界圣骑 赛恩",
+      "soundIds": []
+    },
+    {
+      "id": 189,
+      "name": "战争女神",
+      "soundIds": []
+    },
+    {
+      "id": 190,
+      "name": "战场公主 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 191,
+      "name": "亮丽女神 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 192,
+      "name": "女猎手 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 193,
+      "name": "钢铁之心 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 194,
+      "name": "创战纪 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 195,
+      "name": "冰雪风暴 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 196,
+      "name": "光明骑士 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 197,
+      "name": "胜利女神 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 198,
+      "name": "新创战纪 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 199,
+      "name": "送披萨的小姐姐 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 200,
+      "name": "腥红之月 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 201,
+      "name": "奥德赛 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 202,
+      "name": "咖啡甜心 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 203,
+      "name": "日蚀骑士 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 204,
+      "name": "剪纸仙灵 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 205,
+      "name": "至臻 剪纸仙灵 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 206,
+      "name": "伏虎之力 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 207,
+      "name": "十五周年纪念 希维尔",
+      "soundIds": []
+    },
+    {
+      "id": 208,
+      "name": "众星之子",
+      "soundIds": []
+    },
+    {
+      "id": 209,
+      "name": "森林女神 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 210,
+      "name": "月光女神阿忒弥斯 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 211,
+      "name": "圣洁化身 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 212,
+      "name": "灵魂收割者 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 213,
+      "name": "蕉泥座人 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 214,
+      "name": "源代码 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 215,
+      "name": "星之守护者 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 216,
+      "name": "睡衣守护者 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 217,
+      "name": "冬境仙灵 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 218,
+      "name": "黎明使者 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 219,
+      "name": "黑夜使者 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 220,
+      "name": "至臻 星之守护者 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 221,
+      "name": "咖啡甜心 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 222,
+      "name": "灵魂莲华 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 223,
+      "name": "玉剑传说 星仙子",
+      "soundIds": []
+    },
+    {
+      "id": 224,
+      "name": "花仙子 索拉卡",
+      "soundIds": []
+    },
+    {
+      "id": 225,
+      "name": "迅捷斥候",
+      "soundIds": []
+    },
+    {
+      "id": 226,
+      "name": "圣诞开心鬼 提莫",
+      "soundIds": []
+    },
+    {
+      "id": 227,
+      "name": "军情五处 提莫",
+      "soundIds": []
+    },
+    {
+      "id": 228,
+      "name": "密林猎手 提莫",
+      "soundIds": []
+    },
+    {
+      "id": 229,
+      "name": "提莫:'约德尔人的一大步'",
+      "soundIds": []
+    },
+    {
+      "id": 230,
+      "name": "兔宝宝 提莫",
+      "soundIds": []
+    },
+    {
+      "id": 231,
+      "name": "约德尔国队长 提莫",
+      "soundIds": []
+    },
+    {
+      "id": 232,
+      "name": "熊猫 提莫",
+      "soundIds": []
+    },
+    {
+      "id": 233,
+      "name": "欧米伽小队 幽灵特工",
+      "soundIds": []
+    },
+    {
+      "id": 234,
+      "name": "大魔王 提莫",
+      "soundIds": []
+    },
+    {
+      "id": 235,
+      "name": "小蜜蜂 提莫",
+      "soundIds": []
+    },
+    {
+      "id": 236,
+      "name": "灵魂莲华 提莫",
+      "soundIds": []
+    },
+    {
+      "id": 237,
+      "name": "至臻 灵魂莲华 提莫",
+      "soundIds": []
+    },
+    {
+      "id": 238,
+      "name": "招财进宝 提莫",
+      "soundIds": []
+    },
+    {
+      "id": 239,
+      "name": "太空律动 “律动队长” 提莫",
+      "soundIds": []
+    },
+    {
+      "id": 240,
+      "name": "麦林炮手",
+      "soundIds": []
+    },
+    {
+      "id": 241,
+      "name": "粉色萝莉 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 242,
+      "name": "圣诞精灵 崔丝塔娜 ",
+      "soundIds": []
+    },
+    {
+      "id": 243,
+      "name": "烈焰雄心 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 244,
+      "name": "游击队员 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 245,
+      "name": "约德尔海贼团 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 246,
+      "name": "火箭达人 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 247,
+      "name": "驯龙炮手 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 248,
+      "name": "魅惑女巫 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 249,
+      "name": "欧米伽小队 魔鬼伞兵",
+      "soundIds": []
+    },
+    {
+      "id": 250,
+      "name": "小恶魔 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 251,
+      "name": "我，羽饰骑士 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 252,
+      "name": "海克斯科技 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 253,
+      "name": "虎头虎脑 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 254,
+      "name": "灵魂莲华 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 255,
+      "name": "花仙子 崔丝塔娜",
+      "soundIds": []
+    },
+    {
+      "id": 256,
+      "name": "祖安怒兽",
+      "soundIds": []
+    },
+    {
+      "id": 257,
+      "name": "暗影 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 258,
+      "name": "披着海牛的狼 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 259,
+      "name": "狼外婆 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 260,
+      "name": "冻原猎手 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 261,
+      "name": "嗜血狂暴 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 262,
+      "name": "火牙狼人 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 263,
+      "name": "荒野豺狼 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 264,
+      "name": "黑暗骑士 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 265,
+      "name": "海牛狼人 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 266,
+      "name": "南天之怒 沃里克 ",
+      "soundIds": []
+    },
+    {
+      "id": 267,
+      "name": "源计划：末日 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 268,
+      "name": "古神 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 269,
+      "name": "北极星使者 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 270,
+      "name": "至臻 北极星使者 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 271,
+      "name": "双城之战2 范德尔 沃里克",
+      "soundIds": []
+    },
+    {
+      "id": 272,
+      "name": "雪原双子",
+      "soundIds": []
+    },
+    {
+      "id": 273,
+      "name": "荒野巨兽 努努和威朗普",
+      "soundIds": []
+    },
+    {
+      "id": 274,
+      "name": "圣诞狂欢 努努和威朗普",
+      "soundIds": []
+    },
+    {
+      "id": 275,
+      "name": "脏兮兮 努努和威朗普",
+      "soundIds": []
+    },
+    {
+      "id": 276,
+      "name": "合金巨兽 努努和威朗普",
+      "soundIds": []
+    },
+    {
+      "id": 277,
+      "name": "攻城巨兽 努努和威朗普",
+      "soundIds": []
+    },
+    {
+      "id": 278,
+      "name": "暗杀星 努努和威朗普",
+      "soundIds": []
+    },
+    {
+      "id": 279,
+      "name": "丧尸 努努和威朗普",
+      "soundIds": []
+    },
+    {
+      "id": 280,
+      "name": "千纸双子 努努和威朗普",
+      "soundIds": []
+    },
+    {
+      "id": 281,
+      "name": "太空律动 “舞林双子” 努努和威朗普",
+      "soundIds": []
+    },
+    {
+      "id": 282,
+      "name": "小蜜蜂 努努和威朗普",
+      "soundIds": []
+    },
+    {
+      "id": 283,
+      "name": "星界圣骑双子 努努和威朗普",
+      "soundIds": []
+    },
+    {
+      "id": 284,
+      "name": "魔域梦魇 努努和威朗普",
+      "soundIds": []
+    },
+    {
+      "id": 285,
+      "name": "赏金猎人",
+      "soundIds": []
+    },
+    {
+      "id": 286,
+      "name": "西部牛仔 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 287,
+      "name": "法国皇室 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 288,
+      "name": "特工狂花 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 289,
+      "name": "圣诞糖果棒 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 290,
+      "name": "荒野女警 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 291,
+      "name": "黑帮狂花 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 292,
+      "name": "电玩女神 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 293,
+      "name": "女船长 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 294,
+      "name": "泳池派对 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 295,
+      "name": "星之守护者 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 296,
+      "name": "武装战姬 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 297,
+      "name": "睡衣守护者 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 298,
+      "name": "魅惑女巫 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 299,
+      "name": "至臻 魅惑女巫 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 300,
+      "name": "破败军团 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 301,
+      "name": "幻灵战斗队长 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 302,
+      "name": "幻灵战斗兔司令 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 303,
+      "name": "至臻 魅惑女巫 厄运小姐 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 304,
+      "name": "绝息圣堂 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 305,
+      "name": "至臻 绝息圣堂 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 306,
+      "name": "青花瓷 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 307,
+      "name": "女帝 厄运小姐",
+      "soundIds": []
+    },
+    {
+      "id": 308,
+      "name": "寒冰射手",
+      "soundIds": []
+    },
+    {
+      "id": 309,
+      "name": "极地女神 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 310,
+      "name": "丛林侠盗 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 311,
+      "name": "勇敢的心 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 312,
+      "name": "女皇 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 313,
+      "name": "紫晶射手 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 314,
+      "name": "觅心女王 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 315,
+      "name": "黑暗骑士 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 316,
+      "name": "源计划：联合 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 317,
+      "name": "冠军之箭 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 318,
+      "name": "御星魔矢 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 319,
+      "name": "西部天使 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 320,
+      "name": "神龙尊者 苍龙艾希",
+      "soundIds": []
+    },
+    {
+      "id": 321,
+      "name": "魔女 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 322,
+      "name": "海之歌 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 323,
+      "name": "春晖神女 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 324,
+      "name": "DRX 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 325,
+      "name": "水晶圣骑 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 326,
+      "name": "地狱火 艾希",
+      "soundIds": []
+    },
+    {
+      "id": 327,
+      "name": "蛮族之王",
+      "soundIds": []
+    },
+    {
+      "id": 328,
+      "name": "勇敢的心 泰达米尔",
+      "soundIds": []
+    },
+    {
+      "id": 329,
+      "name": "国王 泰达米尔",
+      "soundIds": []
+    },
+    {
+      "id": 330,
+      "name": "诸神的黄昏 泰达米尔",
+      "soundIds": []
+    },
+    {
+      "id": 331,
+      "name": "恶魔之刃 泰达米尔",
+      "soundIds": []
+    },
+    {
+      "id": 332,
+      "name": "奥斯曼大帝 泰达米尔",
+      "soundIds": []
+    },
+    {
+      "id": 333,
+      "name": "关羽 云长",
+      "soundIds": []
+    },
+    {
+      "id": 334,
+      "name": "梦魇 泰达米尔",
+      "soundIds": []
+    },
+    {
+      "id": 335,
+      "name": "野兽猎人 泰达米尔",
+      "soundIds": []
+    },
+    {
+      "id": 336,
+      "name": "生化领主 泰达米尔",
+      "soundIds": []
+    },
+    {
+      "id": 337,
+      "name": "腥红之月 泰达米尔",
+      "soundIds": []
+    },
+    {
+      "id": 338,
+      "name": "黑夜使者 泰达米尔",
+      "soundIds": []
+    },
+    {
+      "id": 339,
+      "name": "胜利之王 泰达米尔",
+      "soundIds": []
+    },
+    {
+      "id": 340,
+      "name": "武器大师",
+      "soundIds": []
+    },
+    {
+      "id": 341,
+      "name": "冰球队员 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 342,
+      "name": "万夫莫开 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 343,
+      "name": "宗师级钓鱼训练师 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 344,
+      "name": "卧虎藏龙 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 345,
+      "name": "百夫长 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 346,
+      "name": "少林武僧 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 347,
+      "name": "复仇武神 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 348,
+      "name": "SKT T1 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 349,
+      "name": "光明骑士 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 350,
+      "name": "武神 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 351,
+      "name": "王国机神白虎 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 352,
+      "name": "征服者 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 353,
+      "name": "至臻 征服者 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 354,
+      "name": "至高天 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 355,
+      "name": "新卧虎藏龙 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 356,
+      "name": "源计划：孤狼 贾克斯",
+      "soundIds": []
+    },
+    {
+      "id": 357,
+      "name": "堕落天使",
+      "soundIds": []
+    },
+    {
+      "id": 358,
+      "name": "杀戮天使昔拉 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 359,
+      "name": "地狱厨房 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 360,
+      "name": "刀锋女王 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 361,
+      "name": "黑色荆棘 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 362,
+      "name": "鬼魂新娘 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 363,
+      "name": "胜利女神 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 364,
+      "name": "紫金罗刹 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 365,
+      "name": "魅惑女巫 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 366,
+      "name": "玉剑传说 苍鸾",
+      "soundIds": []
+    },
+    {
+      "id": 367,
+      "name": "至尊魔女 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 368,
+      "name": "黎明使者 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 369,
+      "name": "至臻 魅惑女巫 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 370,
+      "name": "星之吞噬者 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 371,
+      "name": "净雪之月 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 372,
+      "name": "青花瓷 莫甘娜",
+      "soundIds": []
+    },
+    {
+      "id": 373,
+      "name": "时光守护者",
+      "soundIds": []
+    },
+    {
+      "id": 374,
+      "name": "圣诞狂欢 基兰",
+      "soundIds": []
+    },
+    {
+      "id": 375,
+      "name": "嘻哈精神 基兰",
+      "soundIds": []
+    },
+    {
+      "id": 376,
+      "name": "遗迹守护者 基兰",
+      "soundIds": []
+    },
+    {
+      "id": 377,
+      "name": "时间机器 基兰",
+      "soundIds": []
+    },
+    {
+      "id": 378,
+      "name": "腥红之月 基兰",
+      "soundIds": []
+    },
+    {
+      "id": 379,
+      "name": "糖果大战 基兰",
+      "soundIds": []
+    },
+    {
+      "id": 380,
+      "name": "北极星圣贤 基兰",
+      "soundIds": []
+    },
+    {
+      "id": 381,
+      "name": "炼金术士",
+      "soundIds": []
+    },
+    {
+      "id": 382,
+      "name": "防暴士兵 辛吉德",
+      "soundIds": []
+    },
+    {
+      "id": 383,
+      "name": "机械污染 辛吉德",
+      "soundIds": []
+    },
+    {
+      "id": 384,
+      "name": "冲浪高手 辛吉德",
+      "soundIds": []
+    },
+    {
+      "id": 385,
+      "name": "科学狂人 辛吉德",
+      "soundIds": []
+    },
+    {
+      "id": 386,
+      "name": "炼金狂士 辛吉德",
+      "soundIds": []
+    },
+    {
+      "id": 387,
+      "name": "冰雪节 辛吉德",
+      "soundIds": []
+    },
+    {
+      "id": 388,
+      "name": "SSW 辛吉德",
+      "soundIds": []
+    },
+    {
+      "id": 389,
+      "name": "黑色天灾 辛吉德",
+      "soundIds": []
+    },
+    {
+      "id": 390,
+      "name": "养蜂人 辛吉德",
+      "soundIds": []
+    },
+    {
+      "id": 391,
+      "name": "抵抗军绿魔 辛吉德",
+      "soundIds": []
+    },
+    {
+      "id": 392,
+      "name": "宇航员 辛吉德",
+      "soundIds": []
+    },
+    {
+      "id": 393,
+      "name": "双城之战2 微光实验室 辛吉德",
+      "soundIds": []
+    },
+    {
+      "id": 394,
+      "name": "痛苦之拥",
+      "soundIds": []
+    },
+    {
+      "id": 395,
+      "name": "黑暗女王 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 396,
+      "name": "假面女皇 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 397,
+      "name": "探戈灵魂 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 398,
+      "name": "惊天魔盗 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 399,
+      "name": "腥红之月 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 400,
+      "name": "K/DA 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 401,
+      "name": "至臻 K/DA 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 402,
+      "name": "糖果大战 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 403,
+      "name": "K/DA ALL OUT 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 404,
+      "name": "魔女 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 405,
+      "name": "至臻 K/DA 伊芙琳 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 406,
+      "name": "灵魂莲华 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 407,
+      "name": "斗魂觉醒 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 408,
+      "name": "西部魔影 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 409,
+      "name": "至臻 西部魔影 伊芙琳",
+      "soundIds": []
+    },
+    {
+      "id": 410,
+      "name": "瘟疫之源",
+      "soundIds": []
+    },
+    {
+      "id": 411,
+      "name": "首领 图奇",
+      "soundIds": []
+    },
+    {
+      "id": 412,
+      "name": "北风冻原 图奇",
+      "soundIds": []
+    },
+    {
+      "id": 413,
+      "name": "都铎王朝 图奇",
+      "soundIds": []
+    },
+    {
+      "id": 414,
+      "name": "黑金诱惑 图奇",
+      "soundIds": []
+    },
+    {
+      "id": 415,
+      "name": "横行霸道 图奇",
+      "soundIds": []
+    },
+    {
+      "id": 416,
+      "name": "绝影神偷 图奇",
+      "soundIds": []
+    },
+    {
+      "id": 417,
+      "name": "SSW 图奇",
+      "soundIds": []
+    },
+    {
+      "id": 418,
+      "name": "欧米伽小队 毒针狙击手",
+      "soundIds": []
+    },
+    {
+      "id": 419,
+      "name": "狂心冰王 图奇",
+      "soundIds": []
+    },
+    {
+      "id": 420,
+      "name": "图奇 · 影足",
+      "soundIds": []
+    },
+    {
+      "id": 421,
+      "name": "屠龙勇士 图奇",
+      "soundIds": []
+    },
+    {
+      "id": 422,
+      "name": "西部魔影 送葬人 图奇",
+      "soundIds": []
+    },
+    {
+      "id": 423,
+      "name": "奶酪首领 图奇",
+      "soundIds": []
+    },
+    {
+      "id": 424,
+      "name": "死亡颂唱者",
+      "soundIds": []
+    },
+    {
+      "id": 425,
+      "name": "幽灵幻影 卡尔萨斯",
+      "soundIds": []
+    },
+    {
+      "id": 426,
+      "name": "自由女神 卡尔萨斯",
+      "soundIds": []
+    },
+    {
+      "id": 427,
+      "name": "死神 卡尔萨斯",
+      "soundIds": []
+    },
+    {
+      "id": 428,
+      "name": "五杀摇滚主唱 卡尔萨斯",
+      "soundIds": []
+    },
+    {
+      "id": 429,
+      "name": "Fnatic 卡尔萨斯",
+      "soundIds": []
+    },
+    {
+      "id": 430,
+      "name": "卡尔萨斯·祸害之光",
+      "soundIds": []
+    },
+    {
+      "id": 431,
+      "name": "地狱火 卡尔萨斯",
+      "soundIds": []
+    },
+    {
+      "id": 432,
+      "name": "五杀摇滚 III：遗失的章节 卡尔萨斯",
+      "soundIds": []
+    },
+    {
+      "id": 433,
+      "name": "永恒之森 卡尔萨斯",
+      "soundIds": []
+    },
+    {
+      "id": 434,
+      "name": "虚空恐惧",
+      "soundIds": []
+    },
+    {
+      "id": 435,
+      "name": "梦魇 科加斯",
+      "soundIds": []
+    },
+    {
+      "id": 436,
+      "name": "绅士 科加斯",
+      "soundIds": []
+    },
+    {
+      "id": 437,
+      "name": "尼斯巨兽 科加斯",
+      "soundIds": []
+    },
+    {
+      "id": 438,
+      "name": "侏罗纪化石 科加斯",
+      "soundIds": []
+    },
+    {
+      "id": 439,
+      "name": "战地巨兽 科加斯",
+      "soundIds": []
+    },
+    {
+      "id": 440,
+      "name": "暴龙 科加斯",
+      "soundIds": []
+    },
+    {
+      "id": 441,
+      "name": "暗星 科加斯",
+      "soundIds": []
+    },
+    {
+      "id": 442,
+      "name": "山海绘卷 科加斯",
+      "soundIds": []
+    },
+    {
+      "id": 443,
+      "name": "绝息圣堂 科加斯",
+      "soundIds": []
+    },
+    {
+      "id": 444,
+      "name": "鳄加斯",
+      "soundIds": []
+    },
+    {
+      "id": 445,
+      "name": "殇之木乃伊",
+      "soundIds": []
+    },
+    {
+      "id": 446,
+      "name": "法老 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 447,
+      "name": "狂欢 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 448,
+      "name": "情绪摇滚 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 449,
+      "name": "阿木木:“主人不要我了”",
+      "soundIds": []
+    },
+    {
+      "id": 450,
+      "name": "王子不是我 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 451,
+      "name": "小小骑士 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 452,
+      "name": "殇之机器人 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 453,
+      "name": "惊悚派对 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 454,
+      "name": "地狱火 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 455,
+      "name": "海克斯科技 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 456,
+      "name": "南瓜头王子 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 457,
+      "name": "青花瓷 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 458,
+      "name": "黯然心伤 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 459,
+      "name": "点心宝贝 阿木木",
+      "soundIds": []
+    },
+    {
+      "id": 460,
+      "name": "披甲龙龟",
+      "soundIds": []
+    },
+    {
+      "id": 461,
+      "name": "国王 拉莫斯",
+      "soundIds": []
+    },
+    {
+      "id": 462,
+      "name": "铬金铠甲 拉莫斯",
+      "soundIds": []
+    },
+    {
+      "id": 463,
+      "name": "熔火之心 拉莫斯",
+      "soundIds": []
+    },
+    {
+      "id": 464,
+      "name": "极度深寒 拉莫斯",
+      "soundIds": []
+    },
+    {
+      "id": 465,
+      "name": "忍龟 拉莫斯",
+      "soundIds": []
+    },
+    {
+      "id": 466,
+      "name": "全金属狂潮 拉莫斯",
+      "soundIds": []
+    },
+    {
+      "id": 467,
+      "name": "沙之守护 拉莫斯",
+      "soundIds": []
+    },
+    {
+      "id": 468,
+      "name": "制胜金球 拉莫斯",
+      "soundIds": []
+    },
+    {
+      "id": 469,
+      "name": "海克斯科技 拉莫斯",
+      "soundIds": []
+    },
+    {
+      "id": 470,
+      "name": "宇航员 拉莫斯",
+      "soundIds": []
+    },
+    {
+      "id": 471,
+      "name": "榴莲龙龟 拉莫斯",
+      "soundIds": []
+    },
+    {
+      "id": 472,
+      "name": "冰晶凤凰",
+      "soundIds": []
+    },
+    {
+      "id": 473,
+      "name": "双重冰晶 艾尼维亚",
+      "soundIds": []
+    },
+    {
+      "id": 474,
+      "name": "联盟之喙 艾尼维亚",
+      "soundIds": []
+    },
+    {
+      "id": 475,
+      "name": "重甲猎鹰 艾尼维亚",
+      "soundIds": []
+    },
+    {
+      "id": 476,
+      "name": "钢铁之翼 艾尼维亚",
+      "soundIds": []
+    },
+    {
+      "id": 477,
+      "name": "黯晶凤凰 艾尼维亚",
+      "soundIds": []
+    },
+    {
+      "id": 478,
+      "name": "翼龙 艾尼维亚",
+      "soundIds": []
+    },
+    {
+      "id": 479,
+      "name": "庆典女皇 艾尼维亚",
+      "soundIds": []
+    },
+    {
+      "id": 480,
+      "name": "千纸凤凰 艾尼维亚",
+      "soundIds": []
+    },
+    {
+      "id": 481,
+      "name": "凤凰星神 艾尼维亚",
+      "soundIds": []
+    },
+    {
+      "id": 482,
+      "name": "神凰行者 瑞羽圣凰 艾尼维亚",
+      "soundIds": []
+    },
+    {
+      "id": 483,
+      "name": "魅惑女巫 艾尼维亚",
+      "soundIds": []
+    },
+    {
+      "id": 484,
+      "name": "胜利凤凰 艾尼维亚",
+      "soundIds": []
+    },
+    {
+      "id": 485,
+      "name": "恶魔小丑",
+      "soundIds": []
+    },
+    {
+      "id": 486,
+      "name": "恐怖之源 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 487,
+      "name": "贵族血统 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 488,
+      "name": "胡桃夹子 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 489,
+      "name": "小丑工作坊 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 490,
+      "name": "飞越疯人院 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 491,
+      "name": "武动巅峰 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 492,
+      "name": "万能小丑 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 493,
+      "name": "暗星 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 494,
+      "name": "奥术师 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 495,
+      "name": "地下都市 梦魇 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 496,
+      "name": "北极星使者 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 497,
+      "name": "斗魂觉醒 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 498,
+      "name": "至臻 斗魂觉醒 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 499,
+      "name": "魔域梦魇 萨科",
+      "soundIds": []
+    },
+    {
+      "id": 500,
+      "name": "祖安狂人",
+      "soundIds": []
+    },
+    {
+      "id": 501,
+      "name": "战栗之毒 蒙多",
+      "soundIds": []
+    },
+    {
+      "id": 502,
+      "name": "健美教练 蒙多",
+      "soundIds": []
+    },
+    {
+      "id": 503,
+      "name": "律政大亨 蒙多",
+      "soundIds": []
+    },
+    {
+      "id": 504,
+      "name": "蒙多蒙多",
+      "soundIds": []
+    },
+    {
+      "id": 505,
+      "name": "嗜血行刑 蒙多",
+      "soundIds": []
+    },
+    {
+      "id": 506,
+      "name": "战争血统 蒙多",
+      "soundIds": []
+    },
+    {
+      "id": 507,
+      "name": "暗杀星 蒙多",
+      "soundIds": []
+    },
+    {
+      "id": 508,
+      "name": "泳池派对 蒙多",
+      "soundIds": []
+    },
+    {
+      "id": 509,
+      "name": "硬汉 蒙多",
+      "soundIds": []
+    },
+    {
+      "id": 510,
+      "name": "冰封王子 蒙多",
+      "soundIds": []
+    },
+    {
+      "id": 511,
+      "name": "妖怪艺术家 蒙多医生",
+      "soundIds": []
+    },
+    {
+      "id": 512,
+      "name": "琴瑟仙女",
+      "soundIds": []
+    },
+    {
+      "id": 513,
+      "name": "缪斯女神 娑娜",
+      "soundIds": []
+    },
+    {
+      "id": 514,
+      "name": "五杀摇滚键盘手 娑娜",
+      "soundIds": []
+    },
+    {
+      "id": 515,
+      "name": "平安夜女神 娑娜",
+      "soundIds": []
+    },
+    {
+      "id": 516,
+      "name": "古琴余韵 娑娜",
+      "soundIds": []
+    },
+    {
+      "id": 517,
+      "name": "电玩女神 娑娜",
+      "soundIds": []
+    },
+    {
+      "id": 518,
+      "name": "DJ 娑娜",
+      "soundIds": []
+    },
+    {
+      "id": 519,
+      "name": "甜心宝贝 娑娜",
+      "soundIds": []
+    },
+    {
+      "id": 520,
+      "name": "奥德赛 娑娜",
+      "soundIds": []
+    },
+    {
+      "id": 521,
+      "name": "灵能特工 娑娜",
+      "soundIds": []
+    },
+    {
+      "id": 522,
+      "name": "五杀摇滚 III：遗失的章节 娑娜",
+      "soundIds": []
+    },
+    {
+      "id": 523,
+      "name": "星之守护者 娑娜",
+      "soundIds": []
+    },
+    {
+      "id": 524,
+      "name": "玉剑传说 琴仙子",
+      "soundIds": []
+    },
+    {
+      "id": 525,
+      "name": "至臻 玉剑传说 琴仙子",
+      "soundIds": []
+    },
+    {
+      "id": 526,
+      "name": "胜利女神 娑娜",
+      "soundIds": []
+    },
+    {
+      "id": 527,
+      "name": "虚空行者",
+      "soundIds": []
+    },
+    {
+      "id": 528,
+      "name": "寒冰王座 卡萨丁",
+      "soundIds": []
+    },
+    {
+      "id": 529,
+      "name": "深海一号 卡萨丁",
+      "soundIds": []
+    },
+    {
+      "id": 530,
+      "name": "虚空前世 卡萨丁",
+      "soundIds": []
+    },
+    {
+      "id": 531,
+      "name": "先驱行者 卡萨丁",
+      "soundIds": []
+    },
+    {
+      "id": 532,
+      "name": "掠星魔刃 卡萨丁",
+      "soundIds": []
+    },
+    {
+      "id": 533,
+      "name": "伯爵 卡萨丁",
+      "soundIds": []
+    },
+    {
+      "id": 534,
+      "name": "海克斯科技 卡萨丁",
+      "soundIds": []
+    },
+    {
+      "id": 535,
+      "name": "冲击之刃 卡萨丁",
+      "soundIds": []
+    },
+    {
+      "id": 536,
+      "name": "神龙尊者 星界之龙 卡萨丁",
+      "soundIds": []
+    },
+    {
+      "id": 537,
+      "name": "刀锋舞者",
+      "soundIds": []
+    },
+    {
+      "id": 538,
+      "name": "夜刃 艾瑞莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 539,
+      "name": "凌云之翼 艾瑞莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 540,
+      "name": "夜行义贼 艾瑞莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 541,
+      "name": "冰霜之刃 艾瑞莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 542,
+      "name": "莲花之令 艾瑞莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 543,
+      "name": "玉剑传说 舞剑仙",
+      "soundIds": []
+    },
+    {
+      "id": 544,
+      "name": "iG 艾瑞莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 545,
+      "name": "源计划：正义 艾瑞莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 546,
+      "name": "至臻 源计划：正义 艾瑞莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 547,
+      "name": "西部天使 艾瑞莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 548,
+      "name": "光明哨兵 艾瑞莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 549,
+      "name": "至臻 源计划：正义 艾瑞莉娅 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 550,
+      "name": "剪纸仙灵 艾瑞莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 551,
+      "name": "青花瓷 艾瑞莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 552,
+      "name": "风暴之怒",
+      "soundIds": []
+    },
+    {
+      "id": 553,
+      "name": "暴风女神 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 554,
+      "name": "海克斯科技 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 555,
+      "name": "寒冰女皇 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 556,
+      "name": "胜利女神 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 557,
+      "name": "女主播 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 558,
+      "name": "Fnatic 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 559,
+      "name": "星之守护者 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 560,
+      "name": "玉剑传说 风仙子",
+      "soundIds": []
+    },
+    {
+      "id": 561,
+      "name": "魅惑女巫 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 562,
+      "name": "沙之守护 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 563,
+      "name": "女帝 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 564,
+      "name": "水晶玫瑰 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 565,
+      "name": "海珀利安小队 X09-星环灵风 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 566,
+      "name": "至臻 海珀利安小队 X09-星环灵风 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 567,
+      "name": "天龙之子 迦娜",
+      "soundIds": []
+    },
+    {
+      "id": 568,
+      "name": "海洋之灾",
+      "soundIds": []
+    },
+    {
+      "id": 569,
+      "name": "幽灵船长 普朗克",
+      "soundIds": []
+    },
+    {
+      "id": 570,
+      "name": "老兵 普朗克",
+      "soundIds": []
+    },
+    {
+      "id": 571,
+      "name": "大力水手 普朗克",
+      "soundIds": []
+    },
+    {
+      "id": 572,
+      "name": "英勇玩具兵 普朗克",
+      "soundIds": []
+    },
+    {
+      "id": 573,
+      "name": "特种部队 普朗克",
+      "soundIds": []
+    },
+    {
+      "id": 574,
+      "name": "奥斯曼大帝 普朗克",
+      "soundIds": []
+    },
+    {
+      "id": 575,
+      "name": "昔日霸主 普朗克",
+      "soundIds": []
+    },
+    {
+      "id": 576,
+      "name": "恐惧新星 普朗克",
+      "soundIds": []
+    },
+    {
+      "id": 577,
+      "name": "泳池派对 普朗克",
+      "soundIds": []
+    },
+    {
+      "id": 578,
+      "name": "FPX 普朗克",
+      "soundIds": []
+    },
+    {
+      "id": 579,
+      "name": "背叛之刃 普朗克",
+      "soundIds": []
+    },
+    {
+      "id": 580,
+      "name": "源计划：铁腕 普朗克",
+      "soundIds": []
+    },
+    {
+      "id": 581,
+      "name": "英勇投弹手",
+      "soundIds": []
+    },
+    {
+      "id": 582,
+      "name": "外星装甲 库奇",
+      "soundIds": []
+    },
+    {
+      "id": 583,
+      "name": "雪橇速滑 库奇",
+      "soundIds": []
+    },
+    {
+      "id": 584,
+      "name": "红色男爵 库奇",
+      "soundIds": []
+    },
+    {
+      "id": 585,
+      "name": "急速前进 库奇",
+      "soundIds": []
+    },
+    {
+      "id": 586,
+      "name": "海牛骑手  库奇",
+      "soundIds": []
+    },
+    {
+      "id": 587,
+      "name": "神龙之翼 库奇",
+      "soundIds": []
+    },
+    {
+      "id": 588,
+      "name": "Fnatic 库奇",
+      "soundIds": []
+    },
+    {
+      "id": 589,
+      "name": "电玩上校 库奇",
+      "soundIds": []
+    },
+    {
+      "id": 590,
+      "name": "柯基 库奇",
+      "soundIds": []
+    },
+    {
+      "id": 591,
+      "name": "宇航员 库奇",
+      "soundIds": []
+    },
+    {
+      "id": 592,
+      "name": "天启者",
+      "soundIds": []
+    },
+    {
+      "id": 593,
+      "name": "日冕女神 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 594,
+      "name": "樱花乱舞 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 595,
+      "name": "传统服饰 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 596,
+      "name": "莲花之令 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 597,
+      "name": "光明骑士 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 598,
+      "name": "冬季仙境 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 599,
+      "name": "征服者 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 600,
+      "name": "暗星 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 601,
+      "name": "黎明使者 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 602,
+      "name": "奥德赛 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 603,
+      "name": "破败军团 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 604,
+      "name": "神龙尊者 宁静之龙 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 605,
+      "name": "花仙女王 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 606,
+      "name": "地狱火 卡尔玛",
+      "soundIds": []
+    },
+    {
+      "id": 607,
+      "name": "瓦洛兰之盾",
+      "soundIds": []
+    },
+    {
+      "id": 608,
+      "name": "绿水晶光辉 塔里克",
+      "soundIds": []
+    },
+    {
+      "id": 609,
+      "name": "紫水晶意志 塔里克",
+      "soundIds": []
+    },
+    {
+      "id": 610,
+      "name": "血石诅咒 塔里克",
+      "soundIds": []
+    },
+    {
+      "id": 611,
+      "name": "泳池派对 塔里克",
+      "soundIds": []
+    },
+    {
+      "id": 612,
+      "name": "塔里克 · 辉盾",
+      "soundIds": []
+    },
+    {
+      "id": 613,
+      "name": "太空律动 “爱乐之子” 塔里克",
+      "soundIds": []
+    },
+    {
+      "id": 614,
+      "name": "邪恶小法师",
+      "soundIds": []
+    },
+    {
+      "id": 615,
+      "name": "白魔法师 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 616,
+      "name": "冰壶选手 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 617,
+      "name": "灰胡子魔法师 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 618,
+      "name": "绿野仙踪 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 619,
+      "name": "魔导绅士 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 620,
+      "name": "穿着正装的恶魔 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 621,
+      "name": "邪恶圣诞老人 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 622,
+      "name": "最终BOSS 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 623,
+      "name": "欧米伽小队 天雷爆破手",
+      "soundIds": []
+    },
+    {
+      "id": 624,
+      "name": "永恒之森 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 625,
+      "name": "我，怒角 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 626,
+      "name": "宇航员 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 627,
+      "name": "小怪兽训练师 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 628,
+      "name": "蜂大王 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 629,
+      "name": "魔域梦魇 维迦",
+      "soundIds": []
+    },
+    {
+      "id": 630,
+      "name": "巨魔之王",
+      "soundIds": []
+    },
+    {
+      "id": 631,
+      "name": "里尔击球手  特朗德尔",
+      "soundIds": []
+    },
+    {
+      "id": 632,
+      "name": "垃圾场  特朗德尔",
+      "soundIds": []
+    },
+    {
+      "id": 633,
+      "name": "传统造型 特朗德尔",
+      "soundIds": []
+    },
+    {
+      "id": 634,
+      "name": "巡逻警官 特朗德尔",
+      "soundIds": []
+    },
+    {
+      "id": 635,
+      "name": "创世之神 特朗德尔",
+      "soundIds": []
+    },
+    {
+      "id": 636,
+      "name": "屠龙勇士 特朗德尔",
+      "soundIds": []
+    },
+    {
+      "id": 637,
+      "name": "魔域梦魇 特朗德尔",
+      "soundIds": []
+    },
+    {
+      "id": 638,
+      "name": "超级电竞粉丝 特朗德尔",
+      "soundIds": []
+    },
+    {
+      "id": 639,
+      "name": "诺克萨斯统领",
+      "soundIds": []
+    },
+    {
+      "id": 640,
+      "name": "北领前线 斯维因",
+      "soundIds": []
+    },
+    {
+      "id": 641,
+      "name": "海贼参谋 斯维因",
+      "soundIds": []
+    },
+    {
+      "id": 642,
+      "name": "绝代智将 斯维因",
+      "soundIds": []
+    },
+    {
+      "id": 643,
+      "name": "驯龙大师 斯维因",
+      "soundIds": []
+    },
+    {
+      "id": 644,
+      "name": "海克斯科技 斯维因",
+      "soundIds": []
+    },
+    {
+      "id": 645,
+      "name": "水晶玫瑰 斯维因",
+      "soundIds": []
+    },
+    {
+      "id": 646,
+      "name": "北极星猎人 斯维因",
+      "soundIds": []
+    },
+    {
+      "id": 647,
+      "name": "狼神英灵 斯维因",
+      "soundIds": []
+    },
+    {
+      "id": 648,
+      "name": "至臻 狼神英灵 斯维因",
+      "soundIds": []
+    },
+    {
+      "id": 649,
+      "name": "皮城女警",
+      "soundIds": []
+    },
+    {
+      "id": 650,
+      "name": "抵抗军天使 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 651,
+      "name": "荒野治安官 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 652,
+      "name": "古墓丽影 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 653,
+      "name": "冰原狙击 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 654,
+      "name": "女警狙击 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 655,
+      "name": "铁血狙击手 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 656,
+      "name": "玉净夜叉 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 657,
+      "name": "未来战士 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 658,
+      "name": "泳池派对 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 659,
+      "name": "电玩女神 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 660,
+      "name": "至臻 电玩女神 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 661,
+      "name": "战斗学院 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 662,
+      "name": "双城之战 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 663,
+      "name": "至臻 电玩女神 凯特琳 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 664,
+      "name": "净雪之月 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 665,
+      "name": "怦然心动 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 666,
+      "name": "DRX 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 667,
+      "name": "双城之战2 指挥官 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 668,
+      "name": "至臻 双城之战2 指挥官 凯特琳",
+      "soundIds": []
+    },
+    {
+      "id": 669,
+      "name": "蒸汽机器人",
+      "soundIds": []
+    },
+    {
+      "id": 670,
+      "name": "铁锈斑斑 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 671,
+      "name": "钢铁之门 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 672,
+      "name": "擂台皇帝 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 673,
+      "name": "陆地王者4WD 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 674,
+      "name": "戴一个表 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 675,
+      "name": "苹果机器人 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 676,
+      "name": "防暴机器人 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 677,
+      "name": "战场BOSS 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 678,
+      "name": "暮色枪骑 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 679,
+      "name": "银白枪骑 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 680,
+      "name": "大魔法锅 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 681,
+      "name": "太空律动 “猫猫” 布里和里茨",
+      "soundIds": []
+    },
+    {
+      "id": 682,
+      "name": "胜利机器人 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 683,
+      "name": "巅峰之星 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 684,
+      "name": "巨神蜂 布里茨",
+      "soundIds": []
+    },
+    {
+      "id": 685,
+      "name": "熔岩巨兽",
+      "soundIds": []
+    },
+    {
+      "id": 686,
+      "name": "三叶草 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 687,
+      "name": "珊瑚礁 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 688,
+      "name": "石破天惊 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 689,
+      "name": "黑曜石守护者 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 690,
+      "name": "冰川巨兽 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 691,
+      "name": "霸天巨兽 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 692,
+      "name": "无畏号 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 693,
+      "name": "奥德赛 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 694,
+      "name": "暗星 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 695,
+      "name": "至臻 暗星 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 696,
+      "name": "FPX 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 697,
+      "name": "古神 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 698,
+      "name": "春晖山神 墨菲特",
+      "soundIds": []
+    },
+    {
+      "id": 699,
+      "name": "不祥之刃",
+      "soundIds": []
+    },
+    {
+      "id": 700,
+      "name": "赏金猎人 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 701,
+      "name": "红牌！退场！ 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 702,
+      "name": "海贼魅影 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 703,
+      "name": "暗夜猫女 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 704,
+      "name": "前线指挥官 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 705,
+      "name": "沙漠风暴 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 706,
+      "name": "夺命美人 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 707,
+      "name": "闭月之颜 貂蝉",
+      "soundIds": []
+    },
+    {
+      "id": 708,
+      "name": "源计划：雄心 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 709,
+      "name": "死亡誓约 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 710,
+      "name": "战斗学院 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 711,
+      "name": "腥红之月 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 712,
+      "name": "女帝 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 713,
+      "name": "西部魔影 执行人 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 714,
+      "name": "花仙使者 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 715,
+      "name": "至臻 花仙使者 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 716,
+      "name": "狼神英灵 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 717,
+      "name": "至臻 黑色玫瑰假面舞会 卡特琳娜",
+      "soundIds": []
+    },
+    {
+      "id": 718,
+      "name": "永恒梦魇",
+      "soundIds": []
+    },
+    {
+      "id": 719,
+      "name": "蓝焰梦魔 魔腾",
+      "soundIds": []
+    },
+    {
+      "id": 720,
+      "name": "幻影梦魔 魔腾",
+      "soundIds": []
+    },
+    {
+      "id": 721,
+      "name": "劫掠梦魇 魔腾",
+      "soundIds": []
+    },
+    {
+      "id": 722,
+      "name": "鬼影重重 魔腾",
+      "soundIds": []
+    },
+    {
+      "id": 723,
+      "name": "上古战魂 魔腾",
+      "soundIds": []
+    },
+    {
+      "id": 724,
+      "name": "恶咒亡魂 魔腾",
+      "soundIds": []
+    },
+    {
+      "id": 725,
+      "name": "古神 魔腾",
+      "soundIds": []
+    },
+    {
+      "id": 726,
+      "name": "海克斯科技 魔腾",
+      "soundIds": []
+    },
+    {
+      "id": 727,
+      "name": "绝息圣堂 魔腾",
+      "soundIds": []
+    },
+    {
+      "id": 728,
+      "name": "至高天 魔腾",
+      "soundIds": []
+    },
+    {
+      "id": 729,
+      "name": "扭曲树精",
+      "soundIds": []
+    },
+    {
+      "id": 730,
+      "name": "烈焰古树 茂凯",
+      "soundIds": []
+    },
+    {
+      "id": 731,
+      "name": "图腾古树 茂凯",
+      "soundIds": []
+    },
+    {
+      "id": 732,
+      "name": "喜庆之树 茂凯",
+      "soundIds": []
+    },
+    {
+      "id": 733,
+      "name": "鬼影森森 茂凯",
+      "soundIds": []
+    },
+    {
+      "id": 734,
+      "name": "绿茵门神 茂凯",
+      "soundIds": []
+    },
+    {
+      "id": 735,
+      "name": "喵凯",
+      "soundIds": []
+    },
+    {
+      "id": 736,
+      "name": "胜利之树 茂凯",
+      "soundIds": []
+    },
+    {
+      "id": 737,
+      "name": "创世之神 茂凯",
+      "soundIds": []
+    },
+    {
+      "id": 738,
+      "name": "宇航员 茂凯",
+      "soundIds": []
+    },
+    {
+      "id": 739,
+      "name": "DRX 茂凯",
+      "soundIds": []
+    },
+    {
+      "id": 740,
+      "name": "荒漠屠夫",
+      "soundIds": []
+    },
+    {
+      "id": 741,
+      "name": "星河战队 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 742,
+      "name": "荒野之咬 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 743,
+      "name": "血石战神 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 744,
+      "name": "符文战神 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 745,
+      "name": "枯萎之壤 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 746,
+      "name": "泳池派对 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 747,
+      "name": "猛龙 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 748,
+      "name": "SKT T1 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 749,
+      "name": "鳄霸 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 750,
+      "name": "海克斯科技 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 751,
+      "name": "黯晶巨鳄 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 752,
+      "name": "源计划：泯灭 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 753,
+      "name": "黎明使者 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 754,
+      "name": "2023 全球总决赛 雷克顿",
+      "soundIds": []
+    },
+    {
+      "id": 755,
+      "name": "德玛西亚皇子",
+      "soundIds": []
+    },
+    {
+      "id": 756,
+      "name": "孤胆英豪 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 757,
+      "name": "屠龙勇士 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 758,
+      "name": "龙骑统帅 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 759,
+      "name": "凯旋英雄 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 760,
+      "name": "吕布 奉先",
+      "soundIds": []
+    },
+    {
+      "id": 761,
+      "name": "Fnatic 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 762,
+      "name": "暗星 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 763,
+      "name": "SSG 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 764,
+      "name": "海克斯科技 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 765,
+      "name": "泳池派对 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 766,
+      "name": "福牛守护者 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 767,
+      "name": "2021 全球总决赛 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 768,
+      "name": "黑夜使者 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 769,
+      "name": "剪纸仙灵 嘉文四世",
+      "soundIds": []
+    },
+    {
+      "id": 770,
+      "name": "蜘蛛女皇",
+      "soundIds": []
+    },
+    {
+      "id": 771,
+      "name": "死亡绽放 伊莉丝",
+      "soundIds": []
+    },
+    {
+      "id": 772,
+      "name": "胜利女神 伊莉丝",
+      "soundIds": []
+    },
+    {
+      "id": 773,
+      "name": "腥红之月 伊莉丝",
+      "soundIds": []
+    },
+    {
+      "id": 774,
+      "name": "SKT T1 伊莉丝",
+      "soundIds": []
+    },
+    {
+      "id": 775,
+      "name": "银河魔装机神 伊莉丝",
+      "soundIds": []
+    },
+    {
+      "id": 776,
+      "name": "魅惑女巫 伊莉丝",
+      "soundIds": []
+    },
+    {
+      "id": 777,
+      "name": "幽梦玫瑰 伊莉丝",
+      "soundIds": []
+    },
+    {
+      "id": 778,
+      "name": "魔女 伊莉丝",
+      "soundIds": []
+    },
+    {
+      "id": 779,
+      "name": "黑色玫瑰假面舞会 伊莉丝",
+      "soundIds": []
+    },
+    {
+      "id": 780,
+      "name": "发条魔灵",
+      "soundIds": []
+    },
+    {
+      "id": 781,
+      "name": "哥特女仆 奥莉安娜",
+      "soundIds": []
+    },
+    {
+      "id": 782,
+      "name": "恶灵布偶 奥莉安娜",
+      "soundIds": []
+    },
+    {
+      "id": 783,
+      "name": "灵骨工匠 奥莉安娜",
+      "soundIds": []
+    },
+    {
+      "id": 784,
+      "name": "暗杀星 奥莉安娜",
+      "soundIds": []
+    },
+    {
+      "id": 785,
+      "name": "冬季仙境 奥莉安娜",
+      "soundIds": []
+    },
+    {
+      "id": 786,
+      "name": "觅心魔灵 奥莉安娜",
+      "soundIds": []
+    },
+    {
+      "id": 787,
+      "name": "暗星 奥莉安娜",
+      "soundIds": []
+    },
+    {
+      "id": 788,
+      "name": "胜利女神 奥莉安娜",
+      "soundIds": []
+    },
+    {
+      "id": 789,
+      "name": "泳池派对 奥莉安娜",
+      "soundIds": []
+    },
+    {
+      "id": 790,
+      "name": "小蜜蜂 奥莉安娜",
+      "soundIds": []
+    },
+    {
+      "id": 791,
+      "name": "星之守护者 奥莉安娜",
+      "soundIds": []
+    },
+    {
+      "id": 792,
+      "name": "T1 奥莉安娜",
+      "soundIds": []
+    },
+    {
+      "id": 793,
+      "name": "齐天大圣",
+      "soundIds": []
+    },
+    {
+      "id": 794,
+      "name": "三昧真火 孙悟空",
+      "soundIds": []
+    },
+    {
+      "id": 795,
+      "name": "斗战胜佛 孙悟空",
+      "soundIds": []
+    },
+    {
+      "id": 796,
+      "name": "定海神珍 孙悟空",
+      "soundIds": []
+    },
+    {
+      "id": 797,
+      "name": "地狱行者 孙悟空",
+      "soundIds": []
+    },
+    {
+      "id": 798,
+      "name": "美猴王 孙悟空",
+      "soundIds": []
+    },
+    {
+      "id": 799,
+      "name": "破空枪骑 孙悟空",
+      "soundIds": []
+    },
+    {
+      "id": 800,
+      "name": "战斗学院 孙悟空",
+      "soundIds": []
+    },
+    {
+      "id": 801,
+      "name": "永恒之森 孙悟空",
+      "soundIds": []
+    },
+    {
+      "id": 802,
+      "name": "复仇焰魂",
+      "soundIds": []
+    },
+    {
+      "id": 803,
+      "name": "末日余生 布兰德",
+      "soundIds": []
+    },
+    {
+      "id": 804,
+      "name": "V字仇杀者 布兰德",
+      "soundIds": []
+    },
+    {
+      "id": 805,
+      "name": "冰晶之核 布兰德",
+      "soundIds": []
+    },
+    {
+      "id": 806,
+      "name": "丧尸 布兰德",
+      "soundIds": []
+    },
+    {
+      "id": 807,
+      "name": "灵魂烈焰 布兰德",
+      "soundIds": []
+    },
+    {
+      "id": 808,
+      "name": "战场BOSS 布兰德",
+      "soundIds": []
+    },
+    {
+      "id": 809,
+      "name": "苍穹之光 布兰德",
+      "soundIds": []
+    },
+    {
+      "id": 810,
+      "name": "神龙尊者 魔龙布兰德",
+      "soundIds": []
+    },
+    {
+      "id": 811,
+      "name": "焰执事 布兰德",
+      "soundIds": []
+    },
+    {
+      "id": 812,
+      "name": "至臻 焰执事 布兰德",
+      "soundIds": []
+    },
+    {
+      "id": 813,
+      "name": "妖怪艺术家 布兰德",
+      "soundIds": []
+    },
+    {
+      "id": 814,
+      "name": "至高天 布兰德",
+      "soundIds": []
+    },
+    {
+      "id": 815,
+      "name": "盲僧",
+      "soundIds": []
+    },
+    {
+      "id": 816,
+      "name": "传统僧侣 李青",
+      "soundIds": []
+    },
+    {
+      "id": 817,
+      "name": "防弹武僧 李青",
+      "soundIds": []
+    },
+    {
+      "id": 818,
+      "name": "龙的传人 李青",
+      "soundIds": []
+    },
+    {
+      "id": 819,
+      "name": "至高之拳 李青",
+      "soundIds": []
+    },
+    {
+      "id": 820,
+      "name": "泳池派对 李青",
+      "soundIds": []
+    },
+    {
+      "id": 821,
+      "name": "SKT T1 李青",
+      "soundIds": []
+    },
+    {
+      "id": 822,
+      "name": "地下拳王 李青",
+      "soundIds": []
+    },
+    {
+      "id": 823,
+      "name": "神拳 李青",
+      "soundIds": []
+    },
+    {
+      "id": 824,
+      "name": "制胜金靴 李青",
+      "soundIds": []
+    },
+    {
+      "id": 825,
+      "name": "黑夜使者 李青",
+      "soundIds": []
+    },
+    {
+      "id": 826,
+      "name": "至臻 黑夜使者 李青",
+      "soundIds": []
+    },
+    {
+      "id": 827,
+      "name": "FPX 李青",
+      "soundIds": []
+    },
+    {
+      "id": 828,
+      "name": "神龙尊者 圣龙李青",
+      "soundIds": []
+    },
+    {
+      "id": 829,
+      "name": "至臻 黑夜使者 李青 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 830,
+      "name": "巅峰之星 李青",
+      "soundIds": []
+    },
+    {
+      "id": 831,
+      "name": "天龙之子 李青",
+      "soundIds": []
+    },
+    {
+      "id": 832,
+      "name": "圣天龙 李青",
+      "soundIds": []
+    },
+    {
+      "id": 833,
+      "name": "T1 李青",
+      "soundIds": []
+    },
+    {
+      "id": 834,
+      "name": "暗夜猎手",
+      "soundIds": []
+    },
+    {
+      "id": 835,
+      "name": "摩登骇客 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 836,
+      "name": "猎天使魔女 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 837,
+      "name": "屠龙勇士 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 838,
+      "name": "觅心猎手 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 839,
+      "name": "SKT T1 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 840,
+      "name": "苍穹之光 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 841,
+      "name": "摄魂使者 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 842,
+      "name": "源计划：净化 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 843,
+      "name": "烈焰美人 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 844,
+      "name": "至臻 烈焰美人 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 845,
+      "name": "灵魂莲华 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 846,
+      "name": "FPX 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 847,
+      "name": "光明哨兵 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 848,
+      "name": "幻灵战斗蝠 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 849,
+      "name": "至臻 烈焰美人 薇恩 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 850,
+      "name": "黎明使者 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 851,
+      "name": "神龙尊者 夜之龙 薇恩",
+      "soundIds": []
+    },
+    {
+      "id": 852,
+      "name": "机械公敌",
+      "soundIds": []
+    },
+    {
+      "id": 853,
+      "name": "热带丛林 兰博",
+      "soundIds": []
+    },
+    {
+      "id": 854,
+      "name": "独眼海盗 兰博",
+      "soundIds": []
+    },
+    {
+      "id": 855,
+      "name": "银河魔装机神 兰博",
+      "soundIds": []
+    },
+    {
+      "id": 856,
+      "name": "废土男爵 兰博",
+      "soundIds": []
+    },
+    {
+      "id": 857,
+      "name": "太空律动 “串烧大师” 兰博",
+      "soundIds": []
+    },
+    {
+      "id": 858,
+      "name": "咖啡甜心 兰博",
+      "soundIds": []
+    },
+    {
+      "id": 859,
+      "name": "魔蛇之拥",
+      "soundIds": []
+    },
+    {
+      "id": 860,
+      "name": "荒漠之咬 卡西奥佩娅",
+      "soundIds": []
+    },
+    {
+      "id": 861,
+      "name": "深海妖姬 卡西奥佩娅",
+      "soundIds": []
+    },
+    {
+      "id": 862,
+      "name": "蛇发女妖 卡西奥佩娅",
+      "soundIds": []
+    },
+    {
+      "id": 863,
+      "name": "碧玉之牙 卡西奥佩娅",
+      "soundIds": []
+    },
+    {
+      "id": 864,
+      "name": "上古魔蛇 卡西奥佩娅",
+      "soundIds": []
+    },
+    {
+      "id": 865,
+      "name": "灵魂莲华 卡西奥佩娅",
+      "soundIds": []
+    },
+    {
+      "id": 866,
+      "name": "魔女 卡西奥佩娅",
+      "soundIds": []
+    },
+    {
+      "id": 867,
+      "name": "魅惑女巫 卡西奥佩娅",
+      "soundIds": []
+    },
+    {
+      "id": 868,
+      "name": "至臻 剪纸仙灵 卡西奥佩娅",
+      "soundIds": []
+    },
+    {
+      "id": 869,
+      "name": "上古领主",
+      "soundIds": []
+    },
+    {
+      "id": 870,
+      "name": "沙暴巨蝎 斯卡纳",
+      "soundIds": []
+    },
+    {
+      "id": 871,
+      "name": "远土之灵 斯卡纳",
+      "soundIds": []
+    },
+    {
+      "id": 872,
+      "name": "战地机甲 斯卡纳",
+      "soundIds": []
+    },
+    {
+      "id": 873,
+      "name": "沙之守护 斯卡纳",
+      "soundIds": []
+    },
+    {
+      "id": 874,
+      "name": "天蝎星神 斯卡纳",
+      "soundIds": []
+    },
+    {
+      "id": 875,
+      "name": "大发明家",
+      "soundIds": []
+    },
+    {
+      "id": 876,
+      "name": "第三类接触 黑默丁格",
+      "soundIds": []
+    },
+    {
+      "id": 877,
+      "name": "拆弹专家 黑默丁格",
+      "soundIds": []
+    },
+    {
+      "id": 878,
+      "name": "创意工坊 黑默丁格",
+      "soundIds": []
+    },
+    {
+      "id": 879,
+      "name": "雪默丁格",
+      "soundIds": []
+    },
+    {
+      "id": 880,
+      "name": "生化博士 黑默丁格",
+      "soundIds": []
+    },
+    {
+      "id": 881,
+      "name": "驯龙学者 黑默丁格",
+      "soundIds": []
+    },
+    {
+      "id": 882,
+      "name": "泳池派对 黑默丁格",
+      "soundIds": []
+    },
+    {
+      "id": 883,
+      "name": "小蜜蜂 黑默丁格",
+      "soundIds": []
+    },
+    {
+      "id": 884,
+      "name": "双城之战2 教授 黑默丁格",
+      "soundIds": []
+    },
+    {
+      "id": 885,
+      "name": "沙漠死神",
+      "soundIds": []
+    },
+    {
+      "id": 886,
+      "name": "星空之门 内瑟斯",
+      "soundIds": []
+    },
+    {
+      "id": 887,
+      "name": "法老王朝 内瑟斯",
+      "soundIds": []
+    },
+    {
+      "id": 888,
+      "name": "死亡骑士 内瑟斯",
+      "soundIds": []
+    },
+    {
+      "id": 889,
+      "name": "警用试作体K-9 内瑟斯",
+      "soundIds": []
+    },
+    {
+      "id": 890,
+      "name": "炼狱魔犬 内瑟斯",
+      "soundIds": []
+    },
+    {
+      "id": 891,
+      "name": "单身贵族 内瑟斯",
+      "soundIds": []
+    },
+    {
+      "id": 892,
+      "name": "创世之神 内瑟斯",
+      "soundIds": []
+    },
+    {
+      "id": 893,
+      "name": "北辰之威 内瑟斯",
+      "soundIds": []
+    },
+    {
+      "id": 894,
+      "name": "战地机甲 内瑟斯",
+      "soundIds": []
+    },
+    {
+      "id": 895,
+      "name": "太空律动 “狗头” 内瑟斯",
+      "soundIds": []
+    },
+    {
+      "id": 896,
+      "name": "海珀利安小队 S02-阿努比斯 内瑟斯",
+      "soundIds": []
+    },
+    {
+      "id": 897,
+      "name": "黑夜使者 内瑟斯",
+      "soundIds": []
+    },
+    {
+      "id": 898,
+      "name": "狂野女猎手",
+      "soundIds": []
+    },
+    {
+      "id": 899,
+      "name": "雪装 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 900,
+      "name": "丛林猎豹 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 901,
+      "name": "法国女仆 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 902,
+      "name": "艳后 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 903,
+      "name": "魅惑女巫 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 904,
+      "name": "铁血猎手 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 905,
+      "name": "枭姬 孙尚香",
+      "soundIds": []
+    },
+    {
+      "id": 906,
+      "name": "勇者 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 907,
+      "name": "银河魔装机神 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 908,
+      "name": "黎明使者 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 909,
+      "name": "狮子星神 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 910,
+      "name": "DWG 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 911,
+      "name": "海之歌 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 912,
+      "name": "喵大力",
+      "soundIds": []
+    },
+    {
+      "id": 913,
+      "name": "灵之菊 奈德丽",
+      "soundIds": []
+    },
+    {
+      "id": 914,
+      "name": "兽灵行者",
+      "soundIds": []
+    },
+    {
+      "id": 915,
+      "name": "武力全开 乌迪尔",
+      "soundIds": []
+    },
+    {
+      "id": 916,
+      "name": "四神之力 乌迪尔",
+      "soundIds": []
+    },
+    {
+      "id": 917,
+      "name": "灵魂守卫 乌迪尔",
+      "soundIds": []
+    },
+    {
+      "id": 918,
+      "name": "这货不是乌迪尔",
+      "soundIds": []
+    },
+    {
+      "id": 919,
+      "name": "龙神之力 乌迪尔",
+      "soundIds": []
+    },
+    {
+      "id": 920,
+      "name": "墨影行者 乌迪尔",
+      "soundIds": []
+    },
+    {
+      "id": 921,
+      "name": "圣锤之毅",
+      "soundIds": []
+    },
+    {
+      "id": 922,
+      "name": "诺克萨斯 波比",
+      "soundIds": []
+    },
+    {
+      "id": 923,
+      "name": "波比的巧克力工坊",
+      "soundIds": []
+    },
+    {
+      "id": 924,
+      "name": "宗师级锻造训练师",
+      "soundIds": []
+    },
+    {
+      "id": 925,
+      "name": "圣诞玩偶 波比",
+      "soundIds": []
+    },
+    {
+      "id": 926,
+      "name": "军神战甲 波比",
+      "soundIds": []
+    },
+    {
+      "id": 927,
+      "name": "血色之锤 波比",
+      "soundIds": []
+    },
+    {
+      "id": 928,
+      "name": "星之守护者 波比",
+      "soundIds": []
+    },
+    {
+      "id": 929,
+      "name": "冰雪驯鹿 波比",
+      "soundIds": []
+    },
+    {
+      "id": 930,
+      "name": "海克斯科技 波比",
+      "soundIds": []
+    },
+    {
+      "id": 931,
+      "name": "宇航员 波比",
+      "soundIds": []
+    },
+    {
+      "id": 932,
+      "name": "魅惑女巫 波比",
+      "soundIds": []
+    },
+    {
+      "id": 933,
+      "name": "咖啡甜心 波比",
+      "soundIds": []
+    },
+    {
+      "id": 934,
+      "name": "酒桶",
+      "soundIds": []
+    },
+    {
+      "id": 935,
+      "name": "深潜蛙人 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 936,
+      "name": "乡村农夫 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 937,
+      "name": "圣诞老人 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 938,
+      "name": "品酒大师 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 939,
+      "name": "飞车暴走族 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 940,
+      "name": "美酒节特使 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 941,
+      "name": "狂热球迷 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 942,
+      "name": "Fnatic 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 943,
+      "name": "古拉加斯·碎桶者",
+      "soundIds": []
+    },
+    {
+      "id": 944,
+      "name": "冰原核弹 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 945,
+      "name": "光明骑士 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 946,
+      "name": "太空律动 “电音酒桶” 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 947,
+      "name": "西部魔影 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 948,
+      "name": "超级音乐粉丝 古拉加斯",
+      "soundIds": []
+    },
+    {
+      "id": 949,
+      "name": "不屈之枪",
+      "soundIds": []
+    },
+    {
+      "id": 950,
+      "name": "斯巴达之魂 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 951,
+      "name": "万人敌 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 952,
+      "name": "英仙座珀尔修斯 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 953,
+      "name": "钢铁意志 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 954,
+      "name": "大夏武士 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 955,
+      "name": "屠龙勇士 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 956,
+      "name": "丧尸杀手 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 957,
+      "name": "面包之王 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 958,
+      "name": "未来战士 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 959,
+      "name": "破败军团 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 960,
+      "name": "至臻 飞升战神 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 961,
+      "name": "灰烬征服者 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 962,
+      "name": "狼神英灵 潘森",
+      "soundIds": []
+    },
+    {
+      "id": 963,
+      "name": "探险家",
+      "soundIds": []
+    },
+    {
+      "id": 964,
+      "name": "冒险精神 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 965,
+      "name": "足球先生 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 966,
+      "name": "冰川勇者 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 967,
+      "name": "失落的世界 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 968,
+      "name": "未来战士 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 969,
+      "name": "暗杀星 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 970,
+      "name": "光执事 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 971,
+      "name": "黑桃皇牌 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 972,
+      "name": "电玩勇者 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 973,
+      "name": "星之守护者 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 974,
+      "name": "SSG 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 975,
+      "name": "睡衣守护者 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 976,
+      "name": "战斗学院 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 977,
+      "name": "灵能特工 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 978,
+      "name": "至臻 灵能特工 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 979,
+      "name": "青花瓷 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 980,
+      "name": "花仙贵族 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 981,
+      "name": "心之钢 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 982,
+      "name": "天龙之子 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 983,
+      "name": "至臻 天龙之子 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 984,
+      "name": "黑色玫瑰假面舞会 伊泽瑞尔",
+      "soundIds": []
+    },
+    {
+      "id": 985,
+      "name": "铁铠冥魂",
+      "soundIds": []
+    },
+    {
+      "id": 986,
+      "name": "龙骑士 莫德凯撒",
+      "soundIds": []
+    },
+    {
+      "id": 987,
+      "name": "地狱火 莫德凯撒",
+      "soundIds": []
+    },
+    {
+      "id": 988,
+      "name": "五杀摇滚吉他手  莫德凯撒",
+      "soundIds": []
+    },
+    {
+      "id": 989,
+      "name": "死亡领主 莫德凯撒",
+      "soundIds": []
+    },
+    {
+      "id": 990,
+      "name": "梅花国王 莫德凯撒",
+      "soundIds": []
+    },
+    {
+      "id": 991,
+      "name": "暗星 莫德凯撒",
+      "soundIds": []
+    },
+    {
+      "id": 992,
+      "name": "源计划：超体 莫德凯撒",
+      "soundIds": []
+    },
+    {
+      "id": 993,
+      "name": "五杀摇滚 III：遗失的章节 莫德凯撒",
+      "soundIds": []
+    },
+    {
+      "id": 994,
+      "name": "西部魔影 地狱列车长 莫德凯撒",
+      "soundIds": []
+    },
+    {
+      "id": 995,
+      "name": "灰烬骑士 莫德凯撒",
+      "soundIds": []
+    },
+    {
+      "id": 996,
+      "name": "古神 莫德凯撒",
+      "soundIds": []
+    },
+    {
+      "id": 997,
+      "name": "牧魂人",
+      "soundIds": []
+    },
+    {
+      "id": 998,
+      "name": "地狱送葬 约里克",
+      "soundIds": []
+    },
+    {
+      "id": 999,
+      "name": "五杀摇滚贝斯手 约里克",
+      "soundIds": []
+    },
+    {
+      "id": 1000,
+      "name": "苍穹之光 约里克",
+      "soundIds": []
+    },
+    {
+      "id": 1001,
+      "name": "喵里克",
+      "soundIds": []
+    },
+    {
+      "id": 1002,
+      "name": "抵抗军灵魔 约里克",
+      "soundIds": []
+    },
+    {
+      "id": 1003,
+      "name": "五杀摇滚 III：遗失的章节 约里克",
+      "soundIds": []
+    },
+    {
+      "id": 1004,
+      "name": "灵魂莲华 约里克",
+      "soundIds": []
+    },
+    {
+      "id": 1005,
+      "name": "暗星 约里克",
+      "soundIds": []
+    },
+    {
+      "id": 1006,
+      "name": "离群之刺",
+      "soundIds": []
+    },
+    {
+      "id": 1007,
+      "name": "蜂刺 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1008,
+      "name": "奈落之炎 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1009,
+      "name": "足球宝贝 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1010,
+      "name": "实习护士 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1011,
+      "name": "腥红之月 鬼武姬 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1012,
+      "name": "银色之牙 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1013,
+      "name": "铁血女忍 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1014,
+      "name": "刺身之拳 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1015,
+      "name": "K/DA 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1016,
+      "name": "至臻 K/DA 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1017,
+      "name": "源计划：暗影 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1018,
+      "name": "真实伤害 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1019,
+      "name": "K/DA ALL OUT 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1020,
+      "name": "地下都市 梦魇 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1021,
+      "name": "至臻 K/DA 阿卡丽 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 1022,
+      "name": "星之守护者 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1023,
+      "name": "DRX 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1024,
+      "name": "魔女 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1025,
+      "name": "至臻 魔女 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1026,
+      "name": "至高天 阿卡丽",
+      "soundIds": []
+    },
+    {
+      "id": 1027,
+      "name": "狂暴之心",
+      "soundIds": []
+    },
+    {
+      "id": 1028,
+      "name": "红色彗星 凯南",
+      "soundIds": []
+    },
+    {
+      "id": 1029,
+      "name": "银色闪电 凯南",
+      "soundIds": []
+    },
+    {
+      "id": 1030,
+      "name": "空手道 凯南",
+      "soundIds": []
+    },
+    {
+      "id": 1031,
+      "name": "医学博士 凯南",
+      "soundIds": []
+    },
+    {
+      "id": 1032,
+      "name": "刺客信条 凯南",
+      "soundIds": []
+    },
+    {
+      "id": 1033,
+      "name": "腥红之月 凯南",
+      "soundIds": []
+    },
+    {
+      "id": 1034,
+      "name": "超级英雄 凯南",
+      "soundIds": []
+    },
+    {
+      "id": 1035,
+      "name": "奈落之炎 凯南",
+      "soundIds": []
+    },
+    {
+      "id": 1036,
+      "name": "DWG 凯南",
+      "soundIds": []
+    },
+    {
+      "id": 1037,
+      "name": "宇航员 凯南",
+      "soundIds": []
+    },
+    {
+      "id": 1038,
+      "name": "德玛西亚之力",
+      "soundIds": []
+    },
+    {
+      "id": 1039,
+      "name": "战神阿瑞斯 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1040,
+      "name": "黄金骑士 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1041,
+      "name": "铁甲雄心 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1042,
+      "name": "死亡骑士 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1043,
+      "name": "孤高游侠 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1044,
+      "name": "钢铁军团 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1045,
+      "name": "海上霸主 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1046,
+      "name": "张辽 文远",
+      "soundIds": []
+    },
+    {
+      "id": 1047,
+      "name": "神王 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1048,
+      "name": "德玛西亚警官 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1049,
+      "name": "王国机神玄武 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1050,
+      "name": "至臻 王国机神玄武 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1051,
+      "name": "战斗学院 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1052,
+      "name": "剪纸仙灵 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1053,
+      "name": "堕落神王 盖伦",
+      "soundIds": []
+    },
+    {
+      "id": 1054,
+      "name": "曙光女神",
+      "soundIds": []
+    },
+    {
+      "id": 1055,
+      "name": "瓦尔基里 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1056,
+      "name": "神圣守卫 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1057,
+      "name": "钢铁烈阳 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1058,
+      "name": "泳池派对 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1059,
+      "name": "源计划：山 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1060,
+      "name": "烧烤女神 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1061,
+      "name": "日蚀骑士 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1062,
+      "name": "月蚀骑士 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1063,
+      "name": "王国机神朱雀 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1064,
+      "name": "战斗学院 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1065,
+      "name": "DWG 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1066,
+      "name": "至臻 战斗学院 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1067,
+      "name": "烈阳执事 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1068,
+      "name": "西部魔影 大小姐 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1069,
+      "name": "水晶圣骑 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1070,
+      "name": "幻灵狮心 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1071,
+      "name": "至臻 幻灵狮心 蕾欧娜",
+      "soundIds": []
+    },
+    {
+      "id": 1072,
+      "name": "虚空先知",
+      "soundIds": []
+    },
+    {
+      "id": 1073,
+      "name": "元老议会 玛尔扎哈",
+      "soundIds": []
+    },
+    {
+      "id": 1074,
+      "name": "暗影王子 玛尔扎哈",
+      "soundIds": []
+    },
+    {
+      "id": 1075,
+      "name": "魔灵 玛尔扎哈",
+      "soundIds": []
+    },
+    {
+      "id": 1076,
+      "name": "至高君王 玛尔扎哈",
+      "soundIds": []
+    },
+    {
+      "id": 1077,
+      "name": "冰雪节 玛尔扎哈",
+      "soundIds": []
+    },
+    {
+      "id": 1078,
+      "name": "战场BOSS 玛尔扎哈",
+      "soundIds": []
+    },
+    {
+      "id": 1079,
+      "name": "海克斯科技 玛尔扎哈",
+      "soundIds": []
+    },
+    {
+      "id": 1080,
+      "name": "创世之神 玛尔扎哈",
+      "soundIds": []
+    },
+    {
+      "id": 1081,
+      "name": "小蜜蜂 玛尔扎哈",
+      "soundIds": []
+    },
+    {
+      "id": 1082,
+      "name": "虚空执事 玛尔扎哈",
+      "soundIds": []
+    },
+    {
+      "id": 1083,
+      "name": "荣誉使者 玛尔扎哈",
+      "soundIds": []
+    },
+    {
+      "id": 1084,
+      "name": "至高天 玛尔扎哈",
+      "soundIds": []
+    },
+    {
+      "id": 1085,
+      "name": "刀锋之影",
+      "soundIds": []
+    },
+    {
+      "id": 1086,
+      "name": "刺客信条 泰隆",
+      "soundIds": []
+    },
+    {
+      "id": 1087,
+      "name": "血色精锐 泰隆",
+      "soundIds": []
+    },
+    {
+      "id": 1088,
+      "name": "银龙裁决 泰隆",
+      "soundIds": []
+    },
+    {
+      "id": 1089,
+      "name": "SSW 泰隆",
+      "soundIds": []
+    },
+    {
+      "id": 1090,
+      "name": "腥红之月 泰隆",
+      "soundIds": []
+    },
+    {
+      "id": 1091,
+      "name": "玉剑传说 无影",
+      "soundIds": []
+    },
+    {
+      "id": 1092,
+      "name": "泰隆 · 黑木",
+      "soundIds": []
+    },
+    {
+      "id": 1093,
+      "name": "幽梦玫瑰 泰隆",
+      "soundIds": []
+    },
+    {
+      "id": 1094,
+      "name": "西部魔影 猎天使恶魔 泰隆",
+      "soundIds": []
+    },
+    {
+      "id": 1095,
+      "name": "至臻 西部魔影 猎天使恶魔 泰隆",
+      "soundIds": []
+    },
+    {
+      "id": 1096,
+      "name": "伏虎之力 泰隆",
+      "soundIds": []
+    },
+    {
+      "id": 1097,
+      "name": "放逐之刃",
+      "soundIds": []
+    },
+    {
+      "id": 1098,
+      "name": "刺客信条 锐雯",
+      "soundIds": []
+    },
+    {
+      "id": 1099,
+      "name": "血色精锐 锐雯",
+      "soundIds": []
+    },
+    {
+      "id": 1100,
+      "name": "兔女郎 锐雯",
+      "soundIds": []
+    },
+    {
+      "id": 1101,
+      "name": "冠军之刃 锐雯",
+      "soundIds": []
+    },
+    {
+      "id": 1102,
+      "name": "替父从军 花木兰",
+      "soundIds": []
+    },
+    {
+      "id": 1103,
+      "name": "电玩勇者 锐雯",
+      "soundIds": []
+    },
+    {
+      "id": 1104,
+      "name": "冠军之刃 锐雯 2016",
+      "soundIds": []
+    },
+    {
+      "id": 1105,
+      "name": "黎明使者 锐雯",
+      "soundIds": []
+    },
+    {
+      "id": 1106,
+      "name": "未来战士 锐雯",
+      "soundIds": []
+    },
+    {
+      "id": 1107,
+      "name": "玉剑传说 武剑仙",
+      "soundIds": []
+    },
+    {
+      "id": 1108,
+      "name": "至臻 玉剑传说 武剑仙",
+      "soundIds": []
+    },
+    {
+      "id": 1109,
+      "name": "灵魂莲华 锐雯",
+      "soundIds": []
+    },
+    {
+      "id": 1110,
+      "name": "光明哨兵 锐雯",
+      "soundIds": []
+    },
+    {
+      "id": 1111,
+      "name": "幻灵战斗兔 锐雯",
+      "soundIds": []
+    },
+    {
+      "id": 1112,
+      "name": "至臻 玉剑传说 武剑仙 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 1113,
+      "name": "绝息圣堂 锐雯",
+      "soundIds": []
+    },
+    {
+      "id": 1114,
+      "name": "伏虎之力 锐雯",
+      "soundIds": []
+    },
+    {
+      "id": 1115,
+      "name": "深渊巨口",
+      "soundIds": []
+    },
+    {
+      "id": 1116,
+      "name": "毛毛虫 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1117,
+      "name": "索诺拉沙虫 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1118,
+      "name": "帝王斑蝶 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1119,
+      "name": "圣诞驯鹿 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1120,
+      "name": "醒狮 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1121,
+      "name": "深海怪鱼 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1122,
+      "name": "侏罗纪化石 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1123,
+      "name": "战地机甲 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1124,
+      "name": "克格汪",
+      "soundIds": []
+    },
+    {
+      "id": 1125,
+      "name": "海克斯科技 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1126,
+      "name": "奥术师 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1127,
+      "name": "小蜜蜂 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1128,
+      "name": "电格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1129,
+      "name": "山海绘卷 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1130,
+      "name": "胜利巨口 克格莫",
+      "soundIds": []
+    },
+    {
+      "id": 1131,
+      "name": "暮光之眼",
+      "soundIds": []
+    },
+    {
+      "id": 1132,
+      "name": "极寒 慎",
+      "soundIds": []
+    },
+    {
+      "id": 1133,
+      "name": "炎爆 慎",
+      "soundIds": []
+    },
+    {
+      "id": 1134,
+      "name": "主治医师 慎",
+      "soundIds": []
+    },
+    {
+      "id": 1135,
+      "name": "腥红之月 鬼武者 慎",
+      "soundIds": []
+    },
+    {
+      "id": 1136,
+      "name": "战国大名 慎",
+      "soundIds": []
+    },
+    {
+      "id": 1137,
+      "name": "暗杀星 慎",
+      "soundIds": []
+    },
+    {
+      "id": 1138,
+      "name": "未来战士 慎",
+      "soundIds": []
+    },
+    {
+      "id": 1139,
+      "name": "奈落之炎 慎",
+      "soundIds": []
+    },
+    {
+      "id": 1140,
+      "name": "灵能特工 慎",
+      "soundIds": []
+    },
+    {
+      "id": 1141,
+      "name": "冲击之刃 慎",
+      "soundIds": []
+    },
+    {
+      "id": 1142,
+      "name": "灰烬守护者 慎",
+      "soundIds": []
+    },
+    {
+      "id": 1143,
+      "name": "荣誉使者 慎",
+      "soundIds": []
+    },
+    {
+      "id": 1144,
+      "name": "光辉女郎",
+      "soundIds": []
+    },
+    {
+      "id": 1145,
+      "name": "奥术光辉 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1146,
+      "name": "游侠法师 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1147,
+      "name": "ODST地狱伞兵 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1148,
+      "name": "星际迷航 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1149,
+      "name": "钢铁军团 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1150,
+      "name": "星之守护者 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1151,
+      "name": "大元素使 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1152,
+      "name": "春晖神女 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1153,
+      "name": "睡衣守护者 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1154,
+      "name": "战斗学院 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1155,
+      "name": "至臻 战斗学院 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1156,
+      "name": "暗星女王 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1157,
+      "name": "耀星女神 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1158,
+      "name": "太空律动 “闪耀灯球” 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1159,
+      "name": "青花瓷 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1160,
+      "name": "斗魂觉醒 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1161,
+      "name": "至臻 战斗学院 拉克丝 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 1162,
+      "name": "至臻 青花瓷 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1163,
+      "name": "至高天 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1164,
+      "name": "花仙子 拉克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1165,
+      "name": "远古巫灵",
+      "soundIds": []
+    },
+    {
+      "id": 1166,
+      "name": "符文生物 泽拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1167,
+      "name": "战地法师 泽拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1168,
+      "name": "枯萎之壤 泽拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1169,
+      "name": "沙之守护 泽拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1170,
+      "name": "暗星 泽拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1171,
+      "name": "欲望之主 泽拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1172,
+      "name": "宇航员 泽拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1173,
+      "name": "水晶巫灵 泽拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1174,
+      "name": "龙血武姬",
+      "soundIds": []
+    },
+    {
+      "id": 1175,
+      "name": "钢之逆鳞 希瓦娜",
+      "soundIds": []
+    },
+    {
+      "id": 1176,
+      "name": "骸骨之爪 希瓦娜",
+      "soundIds": []
+    },
+    {
+      "id": 1177,
+      "name": "黯黑魔龙 希瓦娜",
+      "soundIds": []
+    },
+    {
+      "id": 1178,
+      "name": "冰霜亚龙 希瓦娜",
+      "soundIds": []
+    },
+    {
+      "id": 1179,
+      "name": "冠军之血 希瓦娜",
+      "soundIds": []
+    },
+    {
+      "id": 1180,
+      "name": "银河魔装机神 希瓦娜",
+      "soundIds": []
+    },
+    {
+      "id": 1181,
+      "name": "破败军团 希瓦娜",
+      "soundIds": []
+    },
+    {
+      "id": 1182,
+      "name": "玉剑传说 舞龙卫",
+      "soundIds": []
+    },
+    {
+      "id": 1183,
+      "name": "九尾妖狐",
+      "soundIds": []
+    },
+    {
+      "id": 1184,
+      "name": "高丽风情 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1185,
+      "name": "暗影妖狐 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1186,
+      "name": "焰尾妖狐 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1187,
+      "name": "偶像歌手 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1188,
+      "name": "勇者 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1189,
+      "name": "风纪委员 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1190,
+      "name": "电玩女神 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1191,
+      "name": "星之守护者 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1192,
+      "name": "K/DA 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1193,
+      "name": "至臻 K/DA 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1194,
+      "name": "永恒之森 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1195,
+      "name": "灵魂莲华 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1196,
+      "name": "K/DA ALL OUT 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1197,
+      "name": "魔女 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1198,
+      "name": "至臻 K/DA 阿狸 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 1199,
+      "name": "魅惑之月 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1200,
+      "name": "净雪之月 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1201,
+      "name": "殿堂传奇 阿狸",
+      "soundIds": []
+    },
+    {
+      "id": 1202,
+      "name": "法外狂徒",
+      "soundIds": []
+    },
+    {
+      "id": 1203,
+      "name": "怒之火炮 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1204,
+      "name": "杀出重围 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1205,
+      "name": "黑帮教父 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1206,
+      "name": "防暴士兵 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1207,
+      "name": "泳池派对 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1208,
+      "name": "无情重炮 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1209,
+      "name": "冰雪节 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1210,
+      "name": "胜利枪神 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1211,
+      "name": "禁卫机甲 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1212,
+      "name": "战斗教授 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1213,
+      "name": "光明哨兵 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1214,
+      "name": "EDG 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1215,
+      "name": "青花瓷 格雷福斯",
+      "soundIds": []
+    },
+    {
+      "id": 1216,
+      "name": "潮汐海灵",
+      "soundIds": []
+    },
+    {
+      "id": 1217,
+      "name": "失落大陆 菲兹",
+      "soundIds": []
+    },
+    {
+      "id": 1218,
+      "name": "苔原猎手 菲兹",
+      "soundIds": []
+    },
+    {
+      "id": 1219,
+      "name": "海牛猎手 菲兹",
+      "soundIds": []
+    },
+    {
+      "id": 1220,
+      "name": "虚空海灵 菲兹",
+      "soundIds": []
+    },
+    {
+      "id": 1221,
+      "name": "兔宝宝 菲兹",
+      "soundIds": []
+    },
+    {
+      "id": 1222,
+      "name": "银河魔装机神 菲兹",
+      "soundIds": []
+    },
+    {
+      "id": 1223,
+      "name": "欧米伽小队 鬼影蛙人",
+      "soundIds": []
+    },
+    {
+      "id": 1224,
+      "name": "绒毛菲兹",
+      "soundIds": []
+    },
+    {
+      "id": 1225,
+      "name": "至臻 绒毛菲兹",
+      "soundIds": []
+    },
+    {
+      "id": 1226,
+      "name": "小恶魔 菲兹",
+      "soundIds": []
+    },
+    {
+      "id": 1227,
+      "name": "至臻 绒毛菲兹 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 1228,
+      "name": "宇航员 菲兹",
+      "soundIds": []
+    },
+    {
+      "id": 1229,
+      "name": "青蛙雨衣 菲兹",
+      "soundIds": []
+    },
+    {
+      "id": 1230,
+      "name": "不灭狂雷",
+      "soundIds": []
+    },
+    {
+      "id": 1231,
+      "name": "雷霆领主 沃利贝尔",
+      "soundIds": []
+    },
+    {
+      "id": 1232,
+      "name": "北地风暴 沃利贝尔",
+      "soundIds": []
+    },
+    {
+      "id": 1233,
+      "name": "符文战熊 沃利贝尔",
+      "soundIds": []
+    },
+    {
+      "id": 1234,
+      "name": "警长 沃利贝尔",
+      "soundIds": []
+    },
+    {
+      "id": 1235,
+      "name": "怒熊 沃利贝尔",
+      "soundIds": []
+    },
+    {
+      "id": 1236,
+      "name": "坚韧不屈 沃利贝尔",
+      "soundIds": []
+    },
+    {
+      "id": 1237,
+      "name": "神龙尊者 均衡之龙 沃利贝尔",
+      "soundIds": []
+    },
+    {
+      "id": 1238,
+      "name": "至臻 神龙尊者 均衡之龙 沃利贝尔",
+      "soundIds": []
+    },
+    {
+      "id": 1239,
+      "name": "墨影之灵 沃利贝尔",
+      "soundIds": []
+    },
+    {
+      "id": 1240,
+      "name": "傲之追猎者",
+      "soundIds": []
+    },
+    {
+      "id": 1241,
+      "name": "铁血猎人 雷恩加尔",
+      "soundIds": []
+    },
+    {
+      "id": 1242,
+      "name": "暗黑武士 雷恩加尔",
+      "soundIds": []
+    },
+    {
+      "id": 1243,
+      "name": "SSW 雷恩加尔",
+      "soundIds": []
+    },
+    {
+      "id": 1244,
+      "name": "霸天战士 雷恩加尔",
+      "soundIds": []
+    },
+    {
+      "id": 1245,
+      "name": "雷喵喵尔",
+      "soundIds": []
+    },
+    {
+      "id": 1246,
+      "name": "沙之守护 雷恩加尔",
+      "soundIds": []
+    },
+    {
+      "id": 1247,
+      "name": "光明哨兵 雷恩加尔",
+      "soundIds": []
+    },
+    {
+      "id": 1248,
+      "name": "妖怪艺术家 雷恩加尔",
+      "soundIds": []
+    },
+    {
+      "id": 1249,
+      "name": "惩戒之箭",
+      "soundIds": []
+    },
+    {
+      "id": 1250,
+      "name": "夜魔水晶 韦鲁斯",
+      "soundIds": []
+    },
+    {
+      "id": 1251,
+      "name": "苍穹之光 韦鲁斯",
+      "soundIds": []
+    },
+    {
+      "id": 1252,
+      "name": "白色死神 韦鲁斯",
+      "soundIds": []
+    },
+    {
+      "id": 1253,
+      "name": "觅心射手 韦鲁斯",
+      "soundIds": []
+    },
+    {
+      "id": 1254,
+      "name": "韦鲁斯·迅箭",
+      "soundIds": []
+    },
+    {
+      "id": 1255,
+      "name": "暗星 韦鲁斯",
+      "soundIds": []
+    },
+    {
+      "id": 1256,
+      "name": "征服者 韦鲁斯",
+      "soundIds": []
+    },
+    {
+      "id": 1257,
+      "name": "地狱火 韦鲁斯",
+      "soundIds": []
+    },
+    {
+      "id": 1258,
+      "name": "源计划：天眼 韦鲁斯",
+      "soundIds": []
+    },
+    {
+      "id": 1259,
+      "name": "猎户星神 韦鲁斯",
+      "soundIds": []
+    },
+    {
+      "id": 1260,
+      "name": "西部魔影 天使 韦鲁斯",
+      "soundIds": []
+    },
+    {
+      "id": 1261,
+      "name": "净雪之月 韦鲁斯",
+      "soundIds": []
+    },
+    {
+      "id": 1262,
+      "name": "至高天 韦鲁斯",
+      "soundIds": []
+    },
+    {
+      "id": 1263,
+      "name": "深海泰坦",
+      "soundIds": []
+    },
+    {
+      "id": 1264,
+      "name": "失落大陆 诺提勒斯",
+      "soundIds": []
+    },
+    {
+      "id": 1265,
+      "name": "地底迷城 诺提勒斯",
+      "soundIds": []
+    },
+    {
+      "id": 1266,
+      "name": "宇航员 诺提勒斯",
+      "soundIds": []
+    },
+    {
+      "id": 1267,
+      "name": "光明骑士 诺提勒斯",
+      "soundIds": []
+    },
+    {
+      "id": 1268,
+      "name": "创世之神 诺提勒斯",
+      "soundIds": []
+    },
+    {
+      "id": 1269,
+      "name": "征服者 诺提勒斯",
+      "soundIds": []
+    },
+    {
+      "id": 1270,
+      "name": "山海绘卷 诺提勒斯",
+      "soundIds": []
+    },
+    {
+      "id": 1271,
+      "name": "魔域梦魇 诺提勒斯",
+      "soundIds": []
+    },
+    {
+      "id": 1272,
+      "name": "星界圣骑 诺提勒斯",
+      "soundIds": []
+    },
+    {
+      "id": 1273,
+      "name": "水晶泰坦 诺提勒斯",
+      "soundIds": []
+    },
+    {
+      "id": 1274,
+      "name": "奥术先驱",
+      "soundIds": []
+    },
+    {
+      "id": 1275,
+      "name": "全金属狂潮 维克托",
+      "soundIds": []
+    },
+    {
+      "id": 1276,
+      "name": "初号机 维克托",
+      "soundIds": []
+    },
+    {
+      "id": 1277,
+      "name": "造物主 维克托",
+      "soundIds": []
+    },
+    {
+      "id": 1278,
+      "name": "死亡誓约 维克托",
+      "soundIds": []
+    },
+    {
+      "id": 1279,
+      "name": "灵能特工 维克托",
+      "soundIds": []
+    },
+    {
+      "id": 1280,
+      "name": "西部魔影 天才机械师 维克托",
+      "soundIds": []
+    },
+    {
+      "id": 1281,
+      "name": "双城之战2 救世主 维克托",
+      "soundIds": []
+    },
+    {
+      "id": 1282,
+      "name": "北地之怒",
+      "soundIds": []
+    },
+    {
+      "id": 1283,
+      "name": "野兽女王 瑟庄妮",
+      "soundIds": []
+    },
+    {
+      "id": 1284,
+      "name": "死亡骑士 瑟庄妮",
+      "soundIds": []
+    },
+    {
+      "id": 1285,
+      "name": "传统造型 瑟庄妮",
+      "soundIds": []
+    },
+    {
+      "id": 1286,
+      "name": "战熊骑士 瑟庄妮",
+      "soundIds": []
+    },
+    {
+      "id": 1287,
+      "name": "魄罗骑士 瑟庄妮",
+      "soundIds": []
+    },
+    {
+      "id": 1288,
+      "name": "野兽猎人 瑟庄妮",
+      "soundIds": []
+    },
+    {
+      "id": 1289,
+      "name": "瑟庄妮·逐晓者",
+      "soundIds": []
+    },
+    {
+      "id": 1290,
+      "name": "金猪烈焰 瑟庄妮",
+      "soundIds": []
+    },
+    {
+      "id": 1291,
+      "name": "海克斯科技 瑟庄妮",
+      "soundIds": []
+    },
+    {
+      "id": 1292,
+      "name": "源计划：统帅 瑟庄妮",
+      "soundIds": []
+    },
+    {
+      "id": 1293,
+      "name": "日蚀骑士 瑟庄妮",
+      "soundIds": []
+    },
+    {
+      "id": 1294,
+      "name": "胜利女神 瑟庄妮",
+      "soundIds": []
+    },
+    {
+      "id": 1295,
+      "name": "无双剑姬",
+      "soundIds": []
+    },
+    {
+      "id": 1296,
+      "name": "皇家守卫 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1297,
+      "name": "夜鸦 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1298,
+      "name": "女校长 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1299,
+      "name": "源计划：火 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1300,
+      "name": "泳池派对 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1301,
+      "name": "玉剑传说 无双",
+      "soundIds": []
+    },
+    {
+      "id": 1302,
+      "name": "穿心之剑 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1303,
+      "name": "iG 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1304,
+      "name": "未来战士 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1305,
+      "name": "福牛守护者 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1306,
+      "name": "至臻 福牛守护者 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1307,
+      "name": "魅惑女巫 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1308,
+      "name": "花仙骑士 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1309,
+      "name": "神龙尊者 无双之龙 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1310,
+      "name": "女帝 菲奥娜",
+      "soundIds": []
+    },
+    {
+      "id": 1311,
+      "name": "爆破鬼才",
+      "soundIds": []
+    },
+    {
+      "id": 1312,
+      "name": "科学狂人 吉格斯",
+      "soundIds": []
+    },
+    {
+      "id": 1313,
+      "name": "少校 吉格斯",
+      "soundIds": []
+    },
+    {
+      "id": 1314,
+      "name": "泳池派对 吉格斯",
+      "soundIds": []
+    },
+    {
+      "id": 1315,
+      "name": "雪球也能爆炸！ 吉格斯",
+      "soundIds": []
+    },
+    {
+      "id": 1316,
+      "name": "奥术大师 吉格斯",
+      "soundIds": []
+    },
+    {
+      "id": 1317,
+      "name": "战场BOSS 吉格斯",
+      "soundIds": []
+    },
+    {
+      "id": 1318,
+      "name": "奥德赛 吉格斯",
+      "soundIds": []
+    },
+    {
+      "id": 1319,
+      "name": "糖果大战 吉格斯",
+      "soundIds": []
+    },
+    {
+      "id": 1320,
+      "name": "海克斯科技 吉格斯",
+      "soundIds": []
+    },
+    {
+      "id": 1321,
+      "name": "小蜜蜂 吉格斯",
+      "soundIds": []
+    },
+    {
+      "id": 1322,
+      "name": "魂蔷薇 吉格斯",
+      "soundIds": []
+    },
+    {
+      "id": 1323,
+      "name": "仙灵女巫",
+      "soundIds": []
+    },
+    {
+      "id": 1324,
+      "name": "糖果女巫 璐璐",
+      "soundIds": []
+    },
+    {
+      "id": 1325,
+      "name": "邪恶女巫 璐璐",
+      "soundIds": []
+    },
+    {
+      "id": 1326,
+      "name": "驯龙女巫 璐璐",
+      "soundIds": []
+    },
+    {
+      "id": 1327,
+      "name": "寒冬精灵 璐璐",
+      "soundIds": []
+    },
+    {
+      "id": 1328,
+      "name": "泳池派对 璐璐",
+      "soundIds": []
+    },
+    {
+      "id": 1329,
+      "name": "星之守护者 璐璐",
+      "soundIds": []
+    },
+    {
+      "id": 1330,
+      "name": "创星之灵 璐璐",
+      "soundIds": []
+    },
+    {
+      "id": 1331,
+      "name": "睡衣守护者 璐璐",
+      "soundIds": []
+    },
+    {
+      "id": 1332,
+      "name": "太空律动 “节奏幻师” 璐璐",
+      "soundIds": []
+    },
+    {
+      "id": 1333,
+      "name": "至臻 太空律动 “节奏幻师” 璐璐",
+      "soundIds": []
+    },
+    {
+      "id": 1334,
+      "name": "小怪兽训练师 璐璐",
+      "soundIds": []
+    },
+    {
+      "id": 1335,
+      "name": "咖啡甜心 璐璐",
+      "soundIds": []
+    },
+    {
+      "id": 1336,
+      "name": "荣耀行刑官",
+      "soundIds": []
+    },
+    {
+      "id": 1337,
+      "name": "灵魂收割者 德莱文",
+      "soundIds": []
+    },
+    {
+      "id": 1338,
+      "name": "绞肉机刽子手 德莱文",
+      "soundIds": []
+    },
+    {
+      "id": 1339,
+      "name": "金牌主播 德莱文",
+      "soundIds": []
+    },
+    {
+      "id": 1340,
+      "name": "泳池派对 德莱文",
+      "soundIds": []
+    },
+    {
+      "id": 1341,
+      "name": "野兽猎人 德莱文",
+      "soundIds": []
+    },
+    {
+      "id": 1342,
+      "name": "德莱德莱德莱文",
+      "soundIds": []
+    },
+    {
+      "id": 1343,
+      "name": "圣诞老人 德莱文",
+      "soundIds": []
+    },
+    {
+      "id": 1344,
+      "name": "王国机神青龙 德莱文",
+      "soundIds": []
+    },
+    {
+      "id": 1345,
+      "name": "破败军团 德莱文",
+      "soundIds": []
+    },
+    {
+      "id": 1346,
+      "name": "刃执事 德莱文",
+      "soundIds": []
+    },
+    {
+      "id": 1347,
+      "name": "魔域梦魇 德莱文",
+      "soundIds": []
+    },
+    {
+      "id": 1348,
+      "name": "魂蔷薇 德莱文",
+      "soundIds": []
+    },
+    {
+      "id": 1349,
+      "name": "战争之影",
+      "soundIds": []
+    },
+    {
+      "id": 1350,
+      "name": "血石骑士 赫卡里姆",
+      "soundIds": []
+    },
+    {
+      "id": 1351,
+      "name": "幽魂骑士 赫卡里姆",
+      "soundIds": []
+    },
+    {
+      "id": 1352,
+      "name": "无头骑士 赫卡里姆",
+      "soundIds": []
+    },
+    {
+      "id": 1353,
+      "name": "电玩战魂 赫卡里姆",
+      "soundIds": []
+    },
+    {
+      "id": 1354,
+      "name": "永恒之森 赫卡里姆",
+      "soundIds": []
+    },
+    {
+      "id": 1355,
+      "name": "创世之神 赫卡里姆",
+      "soundIds": []
+    },
+    {
+      "id": 1356,
+      "name": "零之枪骑 赫卡里姆",
+      "soundIds": []
+    },
+    {
+      "id": 1357,
+      "name": "西部魔影 赫卡里姆",
+      "soundIds": []
+    },
+    {
+      "id": 1358,
+      "name": "人马星神 赫卡里姆",
+      "soundIds": []
+    },
+    {
+      "id": 1359,
+      "name": "车骑之力 赫卡里姆",
+      "soundIds": []
+    },
+    {
+      "id": 1360,
+      "name": "北极星守护者 赫卡里姆",
+      "soundIds": []
+    },
+    {
+      "id": 1361,
+      "name": "虚空掠夺者",
+      "soundIds": []
+    },
+    {
+      "id": 1362,
+      "name": "霸天异形 卡兹克",
+      "soundIds": []
+    },
+    {
+      "id": 1363,
+      "name": "沙之守护 卡兹克",
+      "soundIds": []
+    },
+    {
+      "id": 1364,
+      "name": "死亡绽放 卡兹克",
+      "soundIds": []
+    },
+    {
+      "id": 1365,
+      "name": "暗星 卡兹克",
+      "soundIds": []
+    },
+    {
+      "id": 1366,
+      "name": "冠军掠夺者 卡兹克",
+      "soundIds": []
+    },
+    {
+      "id": 1367,
+      "name": "奥德赛 卡兹克",
+      "soundIds": []
+    },
+    {
+      "id": 1368,
+      "name": "春晖海神 卡兹克",
+      "soundIds": []
+    },
+    {
+      "id": 1369,
+      "name": "水晶掠夺者 卡兹克",
+      "soundIds": []
+    },
+    {
+      "id": 1370,
+      "name": "诺克萨斯之手",
+      "soundIds": []
+    },
+    {
+      "id": 1371,
+      "name": "铁血帝皇 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1372,
+      "name": "生化骑士 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1373,
+      "name": "勇敢的心 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1374,
+      "name": "灌篮高手 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1375,
+      "name": "热血班长 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1376,
+      "name": "恐惧新星 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1377,
+      "name": "神王 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1378,
+      "name": "西部魔影 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1379,
+      "name": "福牛守护者 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1380,
+      "name": "地下都市 梦魇 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1381,
+      "name": "灵魂莲华 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1382,
+      "name": "青花瓷 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1383,
+      "name": "圣洁神王 德莱厄斯",
+      "soundIds": []
+    },
+    {
+      "id": 1384,
+      "name": "未来守护者",
+      "soundIds": []
+    },
+    {
+      "id": 1385,
+      "name": "全金属狂潮 杰斯",
+      "soundIds": []
+    },
+    {
+      "id": 1386,
+      "name": "蔷薇绅士 杰斯",
+      "soundIds": []
+    },
+    {
+      "id": 1387,
+      "name": "天启骑士 杰斯",
+      "soundIds": []
+    },
+    {
+      "id": 1388,
+      "name": "杰斯·光明之锤",
+      "soundIds": []
+    },
+    {
+      "id": 1389,
+      "name": "战斗学院 杰斯",
+      "soundIds": []
+    },
+    {
+      "id": 1390,
+      "name": "抵抗军雷神 杰斯",
+      "soundIds": []
+    },
+    {
+      "id": 1391,
+      "name": "双城之战 杰斯",
+      "soundIds": []
+    },
+    {
+      "id": 1392,
+      "name": "巅峰之星 杰斯",
+      "soundIds": []
+    },
+    {
+      "id": 1393,
+      "name": "T1 杰斯",
+      "soundIds": []
+    },
+    {
+      "id": 1394,
+      "name": "双城之战2 幸存者 杰斯",
+      "soundIds": []
+    },
+    {
+      "id": 1395,
+      "name": "至臻 T1 杰斯",
+      "soundIds": []
+    },
+    {
+      "id": 1396,
+      "name": "冰霜女巫",
+      "soundIds": []
+    },
+    {
+      "id": 1397,
+      "name": "血石妖后 丽桑卓",
+      "soundIds": []
+    },
+    {
+      "id": 1398,
+      "name": "刀锋女王 丽桑卓",
+      "soundIds": []
+    },
+    {
+      "id": 1399,
+      "name": "源代码 丽桑卓",
+      "soundIds": []
+    },
+    {
+      "id": 1400,
+      "name": "魔女 丽桑卓",
+      "soundIds": []
+    },
+    {
+      "id": 1401,
+      "name": "暗星女王 丽桑卓",
+      "soundIds": []
+    },
+    {
+      "id": 1402,
+      "name": "青花瓷 丽桑卓",
+      "soundIds": []
+    },
+    {
+      "id": 1403,
+      "name": "至臻 青花瓷 丽桑卓",
+      "soundIds": []
+    },
+    {
+      "id": 1404,
+      "name": "太空律动 “噪音女王” 丽桑卓",
+      "soundIds": []
+    },
+    {
+      "id": 1405,
+      "name": "皎月女神",
+      "soundIds": []
+    },
+    {
+      "id": 1406,
+      "name": "暗黑女武神 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1407,
+      "name": "广寒仙子 嫦娥",
+      "soundIds": []
+    },
+    {
+      "id": 1408,
+      "name": "无限烈焰 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1409,
+      "name": "腥红之月 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1410,
+      "name": "黑潮 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1411,
+      "name": "屠龙勇士 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1412,
+      "name": "女帝 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1413,
+      "name": "至臻 女帝 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1414,
+      "name": "光明哨兵 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1415,
+      "name": "烈焰仙子 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1416,
+      "name": "北极星神 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1417,
+      "name": "天龙之子 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1418,
+      "name": "暗星女王 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1419,
+      "name": "至臻 暗星女王 黛安娜",
+      "soundIds": []
+    },
+    {
+      "id": 1420,
+      "name": "德玛西亚之翼",
+      "soundIds": []
+    },
+    {
+      "id": 1421,
+      "name": "血羽凤凰 奎因",
+      "soundIds": []
+    },
+    {
+      "id": 1422,
+      "name": "勇敢的心 奎因",
+      "soundIds": []
+    },
+    {
+      "id": 1423,
+      "name": "死亡之鹰 奎因",
+      "soundIds": []
+    },
+    {
+      "id": 1424,
+      "name": "觅心之翼 奎因",
+      "soundIds": []
+    },
+    {
+      "id": 1425,
+      "name": "光明骑士 奎因",
+      "soundIds": []
+    },
+    {
+      "id": 1426,
+      "name": "星之守护者 奎因",
+      "soundIds": []
+    },
+    {
+      "id": 1427,
+      "name": "暗黑元首",
+      "soundIds": []
+    },
+    {
+      "id": 1428,
+      "name": "仲裁圣女 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1429,
+      "name": "亚特兰蒂斯 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1430,
+      "name": "方块王后 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1431,
+      "name": "冰雪女神 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1432,
+      "name": "SKT T1 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1433,
+      "name": "星之守护者 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1434,
+      "name": "泳池派对 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1435,
+      "name": "幽梦玫瑰 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1436,
+      "name": "魅惑女巫 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1437,
+      "name": "至臻 星之守护者 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1438,
+      "name": "灵魂莲华 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1439,
+      "name": "魔女 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1440,
+      "name": "点心宝贝 辛德拉",
+      "soundIds": []
+    },
+    {
+      "id": 1441,
+      "name": "铸星龙王",
+      "soundIds": []
+    },
+    {
+      "id": 1442,
+      "name": "灰烬领主 奥瑞利安·索尔",
+      "soundIds": []
+    },
+    {
+      "id": 1443,
+      "name": "霸天龙神 奥瑞利安 · 索尔",
+      "soundIds": []
+    },
+    {
+      "id": 1444,
+      "name": "圣龙 奥瑞利安 · 索尔",
+      "soundIds": []
+    },
+    {
+      "id": 1445,
+      "name": "墨影之灵 奥瑞利安 · 索尔",
+      "soundIds": []
+    },
+    {
+      "id": 1446,
+      "name": "青花瓷 奥瑞利安 · 索尔",
+      "soundIds": []
+    },
+    {
+      "id": 1447,
+      "name": "影流之镰",
+      "soundIds": []
+    },
+    {
+      "id": 1448,
+      "name": "摄魂猎手 凯隐",
+      "soundIds": []
+    },
+    {
+      "id": 1449,
+      "name": "奥德赛 凯隐",
+      "soundIds": []
+    },
+    {
+      "id": 1450,
+      "name": "黑夜使者 凯隐",
+      "soundIds": []
+    },
+    {
+      "id": 1451,
+      "name": "至臻 黑夜使者 凯隐",
+      "soundIds": []
+    },
+    {
+      "id": 1452,
+      "name": "净雪之月 凯隐",
+      "soundIds": []
+    },
+    {
+      "id": 1453,
+      "name": "心之钢 凯隐",
+      "soundIds": []
+    },
+    {
+      "id": 1454,
+      "name": "暮光星灵",
+      "soundIds": []
+    },
+    {
+      "id": 1455,
+      "name": "赛博潮流 佐伊",
+      "soundIds": []
+    },
+    {
+      "id": 1456,
+      "name": "泳池派对 佐伊",
+      "soundIds": []
+    },
+    {
+      "id": 1457,
+      "name": "星之守护者 佐伊",
+      "soundIds": []
+    },
+    {
+      "id": 1458,
+      "name": "奥术师 佐伊",
+      "soundIds": []
+    },
+    {
+      "id": 1459,
+      "name": "至臻 奥术师 佐伊",
+      "soundIds": []
+    },
+    {
+      "id": 1460,
+      "name": "EDG 佐伊",
+      "soundIds": []
+    },
+    {
+      "id": 1461,
+      "name": "北极星守望者 佐伊",
+      "soundIds": []
+    },
+    {
+      "id": 1462,
+      "name": "暗星 佐伊",
+      "soundIds": []
+    },
+    {
+      "id": 1463,
+      "name": "荆棘之兴",
+      "soundIds": []
+    },
+    {
+      "id": 1464,
+      "name": "野火之藤 婕拉",
+      "soundIds": []
+    },
+    {
+      "id": 1465,
+      "name": "鬼影森森 婕拉",
+      "soundIds": []
+    },
+    {
+      "id": 1466,
+      "name": "SKT T1 婕拉",
+      "soundIds": []
+    },
+    {
+      "id": 1467,
+      "name": "驯龙女巫 婕拉",
+      "soundIds": []
+    },
+    {
+      "id": 1468,
+      "name": "魔女 婕拉",
+      "soundIds": []
+    },
+    {
+      "id": 1469,
+      "name": "至臻 魔女 婕拉",
+      "soundIds": []
+    },
+    {
+      "id": 1470,
+      "name": "水晶玫瑰 婕拉",
+      "soundIds": []
+    },
+    {
+      "id": 1471,
+      "name": "地下都市 梦魇 婕拉",
+      "soundIds": []
+    },
+    {
+      "id": 1472,
+      "name": "剪纸仙灵 婕拉",
+      "soundIds": []
+    },
+    {
+      "id": 1473,
+      "name": "妖怪艺术家 婕拉",
+      "soundIds": []
+    },
+    {
+      "id": 1474,
+      "name": "腥红之月 婕拉",
+      "soundIds": []
+    },
+    {
+      "id": 1475,
+      "name": "虚空之女",
+      "soundIds": []
+    },
+    {
+      "id": 1476,
+      "name": "弹幕天使 卡莎",
+      "soundIds": []
+    },
+    {
+      "id": 1477,
+      "name": "K/DA 卡莎",
+      "soundIds": []
+    },
+    {
+      "id": 1478,
+      "name": "至臻 K/DA 卡莎",
+      "soundIds": []
+    },
+    {
+      "id": 1479,
+      "name": "iG 卡莎",
+      "soundIds": []
+    },
+    {
+      "id": 1480,
+      "name": "电玩女神 卡莎",
+      "soundIds": []
+    },
+    {
+      "id": 1481,
+      "name": "K/DA ALL OUT 卡莎",
+      "soundIds": []
+    },
+    {
+      "id": 1482,
+      "name": "至臻 K/DA ALL OUT 卡莎",
+      "soundIds": []
+    },
+    {
+      "id": 1483,
+      "name": "神龙尊者 玉境灵龙 卡莎",
+      "soundIds": []
+    },
+    {
+      "id": 1484,
+      "name": "至臻 K/DA 卡莎 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 1485,
+      "name": "星之守护者 卡莎",
+      "soundIds": []
+    },
+    {
+      "id": 1486,
+      "name": "墨之影武者 卡莎",
+      "soundIds": []
+    },
+    {
+      "id": 1487,
+      "name": "天龙之子 卡莎",
+      "soundIds": []
+    },
+    {
+      "id": 1488,
+      "name": "暗星 卡莎",
+      "soundIds": []
+    },
+    {
+      "id": 1489,
+      "name": "星籁歌姬",
+      "soundIds": []
+    },
+    {
+      "id": 1490,
+      "name": "K/DA ALL OUT 萨勒芬妮 独立音乐人",
+      "soundIds": []
+    },
+    {
+      "id": 1491,
+      "name": "神凰行者 幽羽玄凰 萨勒芬妮",
+      "soundIds": []
+    },
+    {
+      "id": 1492,
+      "name": "海之歌 萨勒芬妮",
+      "soundIds": []
+    },
+    {
+      "id": 1493,
+      "name": "至臻 海之歌 萨勒芬妮",
+      "soundIds": []
+    },
+    {
+      "id": 1494,
+      "name": "花仙子 萨勒芬妮",
+      "soundIds": []
+    },
+    {
+      "id": 1495,
+      "name": "星之守护者 萨勒芬妮",
+      "soundIds": []
+    },
+    {
+      "id": 1496,
+      "name": "幻灵白鸽 萨勒芬妮",
+      "soundIds": []
+    },
+    {
+      "id": 1497,
+      "name": "点心宝贝 萨勒芬妮",
+      "soundIds": []
+    },
+    {
+      "id": 1498,
+      "name": "迷失之牙",
+      "soundIds": []
+    },
+    {
+      "id": 1499,
+      "name": "最后一只恐龙 纳尔",
+      "soundIds": []
+    },
+    {
+      "id": 1500,
+      "name": "萌侦探 喵尔摩斯",
+      "soundIds": []
+    },
+    {
+      "id": 1501,
+      "name": "冰雪兽 纳尔",
+      "soundIds": []
+    },
+    {
+      "id": 1502,
+      "name": "狂狮 纳尔",
+      "soundIds": []
+    },
+    {
+      "id": 1503,
+      "name": "银河魔装机神 纳尔",
+      "soundIds": []
+    },
+    {
+      "id": 1504,
+      "name": "SSG 纳尔",
+      "soundIds": []
+    },
+    {
+      "id": 1505,
+      "name": "宇航员 纳尔",
+      "soundIds": []
+    },
+    {
+      "id": 1506,
+      "name": "永恒之森 纳尔",
+      "soundIds": []
+    },
+    {
+      "id": 1507,
+      "name": "灵之菊 纳尔",
+      "soundIds": []
+    },
+    {
+      "id": 1508,
+      "name": "生化魔人",
+      "soundIds": []
+    },
+    {
+      "id": 1509,
+      "name": "邪恶魔人 扎克",
+      "soundIds": []
+    },
+    {
+      "id": 1510,
+      "name": "泳池派对 扎克",
+      "soundIds": []
+    },
+    {
+      "id": 1511,
+      "name": "SKT T1 扎克",
+      "soundIds": []
+    },
+    {
+      "id": 1512,
+      "name": "战地机甲 扎克",
+      "soundIds": []
+    },
+    {
+      "id": 1513,
+      "name": "至高天 扎克",
+      "soundIds": []
+    },
+    {
+      "id": 1514,
+      "name": "香浓芝士 扎克",
+      "soundIds": []
+    },
+    {
+      "id": 1515,
+      "name": "疾风剑豪",
+      "soundIds": []
+    },
+    {
+      "id": 1516,
+      "name": "西部牛仔 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1517,
+      "name": "源计划：风 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1518,
+      "name": "腥红之月 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1519,
+      "name": "黑夜使者 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1520,
+      "name": "奥德赛 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1521,
+      "name": "战场BOSS 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1522,
+      "name": "真实伤害 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1523,
+      "name": "至臻 真实伤害 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1524,
+      "name": "灵魂莲华 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1525,
+      "name": "断浪之刃 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1526,
+      "name": "神龙尊者 昼日真龙 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1527,
+      "name": "神龙尊者 夜月幻龙 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1528,
+      "name": "墨之影武者 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1529,
+      "name": "至臻 墨之影武者 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1530,
+      "name": "预知之眼 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1531,
+      "name": "幻灵孤狼 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1532,
+      "name": "创世 黑夜使者 亚索",
+      "soundIds": []
+    },
+    {
+      "id": 1533,
+      "name": "虚空之眼",
+      "soundIds": []
+    },
+    {
+      "id": 1534,
+      "name": "战地机甲 维克兹",
+      "soundIds": []
+    },
+    {
+      "id": 1535,
+      "name": "苍穹之光 维克兹",
+      "soundIds": []
+    },
+    {
+      "id": 1536,
+      "name": "这货不是维克兹",
+      "soundIds": []
+    },
+    {
+      "id": 1537,
+      "name": "地狱火 维克兹",
+      "soundIds": []
+    },
+    {
+      "id": 1538,
+      "name": "黯晶之眼 维克兹",
+      "soundIds": []
+    },
+    {
+      "id": 1539,
+      "name": "天才蜂 维克兹",
+      "soundIds": []
+    },
+    {
+      "id": 1540,
+      "name": "岩雀",
+      "soundIds": []
+    },
+    {
+      "id": 1541,
+      "name": "弗雷尔卓德 塔莉垭",
+      "soundIds": []
+    },
+    {
+      "id": 1542,
+      "name": "SSG 塔莉垭",
+      "soundIds": []
+    },
+    {
+      "id": 1543,
+      "name": "泳池派对 塔莉垭",
+      "soundIds": []
+    },
+    {
+      "id": 1544,
+      "name": "星之守护者 塔莉垭",
+      "soundIds": []
+    },
+    {
+      "id": 1545,
+      "name": "水晶圣骑 塔莉垭",
+      "soundIds": []
+    },
+    {
+      "id": 1546,
+      "name": "青钢影",
+      "soundIds": []
+    },
+    {
+      "id": 1547,
+      "name": "源代码 卡蜜尔",
+      "soundIds": []
+    },
+    {
+      "id": 1548,
+      "name": "魔女 卡蜜尔",
+      "soundIds": []
+    },
+    {
+      "id": 1549,
+      "name": "iG 卡蜜尔",
+      "soundIds": []
+    },
+    {
+      "id": 1550,
+      "name": "莫测之影 卡蜜尔",
+      "soundIds": []
+    },
+    {
+      "id": 1551,
+      "name": "海珀利安小队 Y03-权天使 卡蜜尔",
+      "soundIds": []
+    },
+    {
+      "id": 1552,
+      "name": "北极星钢影 卡蜜尔",
+      "soundIds": []
+    },
+    {
+      "id": 1553,
+      "name": "至臻 北极星钢影 卡蜜尔",
+      "soundIds": []
+    },
+    {
+      "id": 1554,
+      "name": "影哨",
+      "soundIds": []
+    },
+    {
+      "id": 1555,
+      "name": "赛博潮流 阿克尚",
+      "soundIds": []
+    },
+    {
+      "id": 1556,
+      "name": "水晶玫瑰 阿克尚",
+      "soundIds": []
+    },
+    {
+      "id": 1557,
+      "name": "荣誉使者 阿克尚",
+      "soundIds": []
+    },
+    {
+      "id": 1558,
+      "name": "虚空女皇",
+      "soundIds": []
+    },
+    {
+      "id": 1559,
+      "name": "战场BOSS 卑尔维斯",
+      "soundIds": []
+    },
+    {
+      "id": 1560,
+      "name": "星界女神 卑尔维斯",
+      "soundIds": []
+    },
+    {
+      "id": 1561,
+      "name": "海魔女 卑尔维斯",
+      "soundIds": []
+    },
+    {
+      "id": 1562,
+      "name": "弗雷尔卓德之心",
+      "soundIds": []
+    },
+    {
+      "id": 1563,
+      "name": "屠龙勇士 布隆",
+      "soundIds": []
+    },
+    {
+      "id": 1564,
+      "name": "猛虎 布隆",
+      "soundIds": []
+    },
+    {
+      "id": 1565,
+      "name": "布隆·狮心",
+      "soundIds": []
+    },
+    {
+      "id": 1566,
+      "name": "圣诞老人 布隆",
+      "soundIds": []
+    },
+    {
+      "id": 1567,
+      "name": "黑帮管家 布隆",
+      "soundIds": []
+    },
+    {
+      "id": 1568,
+      "name": "糖果大战 布隆",
+      "soundIds": []
+    },
+    {
+      "id": 1569,
+      "name": "泳池派对 布隆",
+      "soundIds": []
+    },
+    {
+      "id": 1570,
+      "name": "戏命师",
+      "soundIds": []
+    },
+    {
+      "id": 1571,
+      "name": "西部牛仔 烬",
+      "soundIds": []
+    },
+    {
+      "id": 1572,
+      "name": "腥红之月 烬",
+      "soundIds": []
+    },
+    {
+      "id": 1573,
+      "name": "SKT T1 烬",
+      "soundIds": []
+    },
+    {
+      "id": 1574,
+      "name": "源计划：升华 烬",
+      "soundIds": []
+    },
+    {
+      "id": 1575,
+      "name": "暗星尊 烬",
+      "soundIds": []
+    },
+    {
+      "id": 1576,
+      "name": "山海绘卷 烬",
+      "soundIds": []
+    },
+    {
+      "id": 1577,
+      "name": "DWG 烬",
+      "soundIds": []
+    },
+    {
+      "id": 1578,
+      "name": "至高天 烬",
+      "soundIds": []
+    },
+    {
+      "id": 1579,
+      "name": "斗魂觉醒 烬",
+      "soundIds": []
+    },
+    {
+      "id": 1580,
+      "name": "暗星绝杀 烬",
+      "soundIds": []
+    },
+    {
+      "id": 1581,
+      "name": "剪纸仙灵 烬",
+      "soundIds": []
+    },
+    {
+      "id": 1582,
+      "name": "永猎双子",
+      "soundIds": []
+    },
+    {
+      "id": 1583,
+      "name": "黯焰双魂 千珏",
+      "soundIds": []
+    },
+    {
+      "id": 1584,
+      "name": "银河魔装机神 千珏",
+      "soundIds": []
+    },
+    {
+      "id": 1585,
+      "name": "灵魂莲华 千珏",
+      "soundIds": []
+    },
+    {
+      "id": 1586,
+      "name": "青花瓷 千珏",
+      "soundIds": []
+    },
+    {
+      "id": 1587,
+      "name": "猫狗大战 千珏",
+      "soundIds": []
+    },
+    {
+      "id": 1588,
+      "name": "DRX 千珏",
+      "soundIds": []
+    },
+    {
+      "id": 1589,
+      "name": "至臻 青花瓷 千珏",
+      "soundIds": []
+    },
+    {
+      "id": 1590,
+      "name": "狼神英灵 千珏",
+      "soundIds": []
+    },
+    {
+      "id": 1591,
+      "name": "祖安花火",
+      "soundIds": []
+    },
+    {
+      "id": 1592,
+      "name": "幽梦玫瑰 泽丽",
+      "soundIds": []
+    },
+    {
+      "id": 1593,
+      "name": "海之歌 泽丽",
+      "soundIds": []
+    },
+    {
+      "id": 1594,
+      "name": "玉剑传说 神机花火",
+      "soundIds": []
+    },
+    {
+      "id": 1595,
+      "name": "魔域梦魇 泽丽",
+      "soundIds": []
+    },
+    {
+      "id": 1596,
+      "name": "至臻 魔域梦魇 泽丽",
+      "soundIds": []
+    },
+    {
+      "id": 1597,
+      "name": "暴走萝莉",
+      "soundIds": []
+    },
+    {
+      "id": 1598,
+      "name": "黑帮狂花 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1599,
+      "name": "神龙烈焰 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1600,
+      "name": "丧尸杀手 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1601,
+      "name": "星之守护者 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1602,
+      "name": "圣诞捣蛋鬼 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1603,
+      "name": "奥德赛 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1604,
+      "name": "源计划：疯狂 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1605,
+      "name": "觅心萝莉 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1606,
+      "name": "双城之战 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1607,
+      "name": "幻灵战斗猫 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1608,
+      "name": "至臻 幻灵战斗猫 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1609,
+      "name": "咖啡甜心 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1610,
+      "name": "双城之战2 破碎者 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1611,
+      "name": "T1 金克丝",
+      "soundIds": []
+    },
+    {
+      "id": 1612,
+      "name": "河流之王",
+      "soundIds": []
+    },
+    {
+      "id": 1613,
+      "name": "五星大厨 塔姆",
+      "soundIds": []
+    },
+    {
+      "id": 1614,
+      "name": "海牛大大 塔姆",
+      "soundIds": []
+    },
+    {
+      "id": 1615,
+      "name": "纳财大帝 塔姆",
+      "soundIds": []
+    },
+    {
+      "id": 1616,
+      "name": "秩序之舌 塔姆",
+      "soundIds": []
+    },
+    {
+      "id": 1617,
+      "name": "西部魔影 恶魔大亨 塔姆",
+      "soundIds": []
+    },
+    {
+      "id": 1618,
+      "name": "山海绘卷 塔姆",
+      "soundIds": []
+    },
+    {
+      "id": 1619,
+      "name": "狂厄蔷薇",
+      "soundIds": []
+    },
+    {
+      "id": 1620,
+      "name": "妖怪艺术家 贝蕾亚",
+      "soundIds": []
+    },
+    {
+      "id": 1621,
+      "name": "幻灵海魔人 贝蕾亚",
+      "soundIds": []
+    },
+    {
+      "id": 1622,
+      "name": "破败之王",
+      "soundIds": []
+    },
+    {
+      "id": 1623,
+      "name": "福牛守护者 佛耶戈",
+      "soundIds": []
+    },
+    {
+      "id": 1624,
+      "name": "五杀摇滚之噪音 佛耶戈",
+      "soundIds": []
+    },
+    {
+      "id": 1625,
+      "name": "EDG 佛耶戈",
+      "soundIds": []
+    },
+    {
+      "id": 1626,
+      "name": "国王 佛耶戈",
+      "soundIds": []
+    },
+    {
+      "id": 1627,
+      "name": "斗魂觉醒 佛耶戈",
+      "soundIds": []
+    },
+    {
+      "id": 1628,
+      "name": "2024 全球总决赛 佛耶戈",
+      "soundIds": []
+    },
+    {
+      "id": 1629,
+      "name": "涤魂圣枪",
+      "soundIds": []
+    },
+    {
+      "id": 1630,
+      "name": "真实伤害 赛娜",
+      "soundIds": []
+    },
+    {
+      "id": 1631,
+      "name": "至臻 真实伤害 赛娜",
+      "soundIds": []
+    },
+    {
+      "id": 1632,
+      "name": "西部天使 赛娜",
+      "soundIds": []
+    },
+    {
+      "id": 1633,
+      "name": "源计划：魅灵 赛娜",
+      "soundIds": []
+    },
+    {
+      "id": 1634,
+      "name": "月蚀骑士 赛娜",
+      "soundIds": []
+    },
+    {
+      "id": 1635,
+      "name": "至臻 月蚀骑士 赛娜",
+      "soundIds": []
+    },
+    {
+      "id": 1636,
+      "name": "魅惑女巫 赛娜",
+      "soundIds": []
+    },
+    {
+      "id": 1637,
+      "name": "星之守护者 赛娜",
+      "soundIds": []
+    },
+    {
+      "id": 1638,
+      "name": "北极星神 赛娜",
+      "soundIds": []
+    },
+    {
+      "id": 1639,
+      "name": "正义假面 赛娜",
+      "soundIds": []
+    },
+    {
+      "id": 1640,
+      "name": "圣枪游侠",
+      "soundIds": []
+    },
+    {
+      "id": 1641,
+      "name": "职业杀手 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1642,
+      "name": "夺命前锋 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1643,
+      "name": "源计划：雷 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1644,
+      "name": "觅心游侠 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1645,
+      "name": "西部魔影 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1646,
+      "name": "德玛西亚警官 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1647,
+      "name": "未来战士 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1648,
+      "name": "至臻 未来战士 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1649,
+      "name": "胜利枪神 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1650,
+      "name": "正义之枪 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1651,
+      "name": "海珀利安小队 Z01-猎户座 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1652,
+      "name": "北极星守护者 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1653,
+      "name": "正义假面 卢锡安",
+      "soundIds": []
+    },
+    {
+      "id": 1654,
+      "name": "影流之主",
+      "soundIds": []
+    },
+    {
+      "id": 1655,
+      "name": "冲击之刃 劫",
+      "soundIds": []
+    },
+    {
+      "id": 1656,
+      "name": "SKT T1 劫",
+      "soundIds": []
+    },
+    {
+      "id": 1657,
+      "name": "源计划：阴 劫",
+      "soundIds": []
+    },
+    {
+      "id": 1658,
+      "name": "冠军之隐 劫",
+      "soundIds": []
+    },
+    {
+      "id": 1659,
+      "name": "死亡誓约 劫",
+      "soundIds": []
+    },
+    {
+      "id": 1660,
+      "name": "天煞 劫",
+      "soundIds": []
+    },
+    {
+      "id": 1661,
+      "name": "灵能特工 劫",
+      "soundIds": []
+    },
+    {
+      "id": 1662,
+      "name": "至臻 源计划：阴 劫",
+      "soundIds": []
+    },
+    {
+      "id": 1663,
+      "name": "影执事 劫",
+      "soundIds": []
+    },
+    {
+      "id": 1664,
+      "name": "至高天 劫",
+      "soundIds": []
+    },
+    {
+      "id": 1665,
+      "name": "玉剑传说 无劫",
+      "soundIds": []
+    },
+    {
+      "id": 1666,
+      "name": "腥红之月 劫",
+      "soundIds": []
+    },
+    {
+      "id": 1667,
+      "name": "灭世 天煞 劫",
+      "soundIds": []
+    },
+    {
+      "id": 1668,
+      "name": "暴怒骑士",
+      "soundIds": []
+    },
+    {
+      "id": 1669,
+      "name": "爵士 克烈",
+      "soundIds": []
+    },
+    {
+      "id": 1670,
+      "name": "克烈古拉伯爵",
+      "soundIds": []
+    },
+    {
+      "id": 1671,
+      "name": "黑暗骑士 克烈",
+      "soundIds": []
+    },
+    {
+      "id": 1672,
+      "name": "狗粮克烈",
+      "soundIds": []
+    },
+    {
+      "id": 1673,
+      "name": "时间刺客",
+      "soundIds": []
+    },
+    {
+      "id": 1674,
+      "name": "时之砂 艾克",
+      "soundIds": []
+    },
+    {
+      "id": 1675,
+      "name": "任性学霸 艾克",
+      "soundIds": []
+    },
+    {
+      "id": 1676,
+      "name": "源计划：自由 艾克",
+      "soundIds": []
+    },
+    {
+      "id": 1677,
+      "name": "SKT T1 艾克",
+      "soundIds": []
+    },
+    {
+      "id": 1678,
+      "name": "不给糖就捣蛋 艾克",
+      "soundIds": []
+    },
+    {
+      "id": 1679,
+      "name": "真实伤害 艾克",
+      "soundIds": []
+    },
+    {
+      "id": 1680,
+      "name": "未来战士 艾克",
+      "soundIds": []
+    },
+    {
+      "id": 1681,
+      "name": "野火首领 艾克",
+      "soundIds": []
+    },
+    {
+      "id": 1682,
+      "name": "星之守护者 艾克",
+      "soundIds": []
+    },
+    {
+      "id": 1683,
+      "name": "至臻 星之守护者 艾克",
+      "soundIds": []
+    },
+    {
+      "id": 1684,
+      "name": "真实伤害 突破界限 艾克",
+      "soundIds": []
+    },
+    {
+      "id": 1685,
+      "name": "双城之战2 孤勇者 艾克",
+      "soundIds": []
+    },
+    {
+      "id": 1686,
+      "name": "元素女皇",
+      "soundIds": []
+    },
+    {
+      "id": 1687,
+      "name": "战场BOSS 奇亚娜",
+      "soundIds": []
+    },
+    {
+      "id": 1688,
+      "name": "真实伤害 奇亚娜",
+      "soundIds": []
+    },
+    {
+      "id": 1689,
+      "name": "至臻 真实伤害 奇亚娜",
+      "soundIds": []
+    },
+    {
+      "id": 1690,
+      "name": "女帝 奇亚娜",
+      "soundIds": []
+    },
+    {
+      "id": 1691,
+      "name": "冲击之刃 奇亚娜",
+      "soundIds": []
+    },
+    {
+      "id": 1692,
+      "name": "至臻 真实伤害 奇亚娜 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 1693,
+      "name": "春晖神女 奇亚娜",
+      "soundIds": []
+    },
+    {
+      "id": 1694,
+      "name": "灵之菊 奇亚娜",
+      "soundIds": []
+    },
+    {
+      "id": 1695,
+      "name": "皮城执法官",
+      "soundIds": []
+    },
+    {
+      "id": 1696,
+      "name": "霓虹杀拳 蔚",
+      "soundIds": []
+    },
+    {
+      "id": 1697,
+      "name": "女警官 蔚",
+      "soundIds": []
+    },
+    {
+      "id": 1698,
+      "name": "铁拳执事 蔚",
+      "soundIds": []
+    },
+    {
+      "id": 1699,
+      "name": "炼狱魔女 蔚",
+      "soundIds": []
+    },
+    {
+      "id": 1700,
+      "name": "虎痴之拳 蔚",
+      "soundIds": []
+    },
+    {
+      "id": 1701,
+      "name": "源计划：裁决 蔚",
+      "soundIds": []
+    },
+    {
+      "id": 1702,
+      "name": "碎心之拳 蔚",
+      "soundIds": []
+    },
+    {
+      "id": 1703,
+      "name": "灵能特工 蔚",
+      "soundIds": []
+    },
+    {
+      "id": 1704,
+      "name": "双城之战 蔚",
+      "soundIds": []
+    },
+    {
+      "id": 1705,
+      "name": "意乱情迷 蔚",
+      "soundIds": []
+    },
+    {
+      "id": 1706,
+      "name": "伏虎之力 蔚",
+      "soundIds": []
+    },
+    {
+      "id": 1707,
+      "name": "双城之战2 斗士 蔚",
+      "soundIds": []
+    },
+    {
+      "id": 1708,
+      "name": "暗裔剑魔 亚托克斯",
+      "soundIds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+    },
+    {
+      "id": 1709,
+      "name": "仲裁圣骑 亚托克斯",
+      "soundIds": []
+    },
+    {
+      "id": 1710,
+      "name": "霸天剑魔 亚托克斯",
+      "soundIds": []
+    },
+    {
+      "id": 1711,
+      "name": "狂鲨 亚托克斯",
+      "soundIds": []
+    },
+    {
+      "id": 1712,
+      "name": "腥红之月 亚托克斯",
+      "soundIds": []
+    },
+    {
+      "id": 1713,
+      "name": "至臻 腥红之月 亚托克斯",
+      "soundIds": []
+    },
+    {
+      "id": 1714,
+      "name": "胜利之剑 亚托克斯",
+      "soundIds": []
+    },
+    {
+      "id": 1715,
+      "name": "奥德赛 亚托克斯",
+      "soundIds": []
+    },
+    {
+      "id": 1716,
+      "name": "至臻 腥红之月 亚托克斯 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 1717,
+      "name": "月蚀骑士 亚托克斯",
+      "soundIds": []
+    },
+    {
+      "id": 1718,
+      "name": "DRX 亚托克斯",
+      "soundIds": []
+    },
+    {
+      "id": 1719,
+      "name": "至臻 DRX 亚托克斯",
+      "soundIds": []
+    },
+    {
+      "id": 1720,
+      "name": "海魔至尊 亚托克斯",
+      "soundIds": []
+    },
+    {
+      "id": 1721,
+      "name": "唤潮鲛姬",
+      "soundIds": []
+    },
+    {
+      "id": 1722,
+      "name": "锦鲤 娜美",
+      "soundIds": []
+    },
+    {
+      "id": 1723,
+      "name": "河水之灵 娜美",
+      "soundIds": []
+    },
+    {
+      "id": 1724,
+      "name": "鲛妮座人 娜美",
+      "soundIds": []
+    },
+    {
+      "id": 1725,
+      "name": "海皇姬 娜美",
+      "soundIds": []
+    },
+    {
+      "id": 1726,
+      "name": "SKT T1 娜美",
+      "soundIds": []
+    },
+    {
+      "id": 1727,
+      "name": "源代码 娜美",
+      "soundIds": []
+    },
+    {
+      "id": 1728,
+      "name": "玉剑传说 寒潭夭夭",
+      "soundIds": []
+    },
+    {
+      "id": 1729,
+      "name": "双鱼星神 娜美",
+      "soundIds": []
+    },
+    {
+      "id": 1730,
+      "name": "魅惑女巫 娜美",
+      "soundIds": []
+    },
+    {
+      "id": 1731,
+      "name": "太空律动 “魔音海妖” 娜美",
+      "soundIds": []
+    },
+    {
+      "id": 1732,
+      "name": "至臻 太空律动 “魔音海妖” 娜美",
+      "soundIds": []
+    },
+    {
+      "id": 1733,
+      "name": "魔女 娜美",
+      "soundIds": []
+    },
+    {
+      "id": 1734,
+      "name": "剪纸仙灵 娜美",
+      "soundIds": []
+    },
+    {
+      "id": 1735,
+      "name": "沙漠皇帝",
+      "soundIds": []
+    },
+    {
+      "id": 1736,
+      "name": "星际之门 阿兹尔",
+      "soundIds": []
+    },
+    {
+      "id": 1737,
+      "name": "幽冥领主 阿兹尔",
+      "soundIds": []
+    },
+    {
+      "id": 1738,
+      "name": "SKT T1 阿兹尔",
+      "soundIds": []
+    },
+    {
+      "id": 1739,
+      "name": "司马懿 仲达",
+      "soundIds": []
+    },
+    {
+      "id": 1740,
+      "name": "永恒之森 阿兹尔",
+      "soundIds": []
+    },
+    {
+      "id": 1741,
+      "name": "2022 全球总决赛 阿兹尔",
+      "soundIds": []
+    },
+    {
+      "id": 1742,
+      "name": "精英律师 阿兹尔",
+      "soundIds": []
+    },
+    {
+      "id": 1743,
+      "name": "魔法猫咪",
+      "soundIds": []
+    },
+    {
+      "id": 1744,
+      "name": "战斗校长 悠米",
+      "soundIds": []
+    },
+    {
+      "id": 1745,
+      "name": "觅心猫猫 悠米",
+      "soundIds": []
+    },
+    {
+      "id": 1746,
+      "name": "小蜜蜂 悠米",
+      "soundIds": []
+    },
+    {
+      "id": 1747,
+      "name": "魅惑女巫 悠米",
+      "soundIds": []
+    },
+    {
+      "id": 1748,
+      "name": "EDG 悠米",
+      "soundIds": []
+    },
+    {
+      "id": 1749,
+      "name": "狗头猫咪 悠米",
+      "soundIds": []
+    },
+    {
+      "id": 1750,
+      "name": "人工智能 悠米",
+      "soundIds": []
+    },
+    {
+      "id": 1751,
+      "name": "至臻 人工智能 悠米",
+      "soundIds": []
+    },
+    {
+      "id": 1752,
+      "name": "沙漠玫瑰",
+      "soundIds": []
+    },
+    {
+      "id": 1753,
+      "name": "灵能特工 莎弥拉",
+      "soundIds": []
+    },
+    {
+      "id": 1754,
+      "name": "太空律动 “音浪狂舞” 莎弥拉",
+      "soundIds": []
+    },
+    {
+      "id": 1755,
+      "name": "西部魔影 持枪女巫 莎弥拉",
+      "soundIds": []
+    },
+    {
+      "id": 1756,
+      "name": "斗魂觉醒 莎弥拉",
+      "soundIds": []
+    },
+    {
+      "id": 1757,
+      "name": "黑色玫瑰假面舞会 莎弥拉",
+      "soundIds": []
+    },
+    {
+      "id": 1758,
+      "name": "魂锁典狱长",
+      "soundIds": []
+    },
+    {
+      "id": 1759,
+      "name": "深渊恐惧 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1760,
+      "name": "冠军典狱长 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1761,
+      "name": "腥红之月 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1762,
+      "name": "SSW 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1763,
+      "name": "暗星 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1764,
+      "name": "西部魔影 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1765,
+      "name": "未来战士 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1766,
+      "name": "至臻 未来战士 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1767,
+      "name": "FPX 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1768,
+      "name": "灵魂莲华 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1769,
+      "name": "破败解封 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1770,
+      "name": "神龙尊者 钢铁之龙 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1771,
+      "name": "至臻 未来战士 锤石 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 1772,
+      "name": "春晖大帝 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1773,
+      "name": "北极星典狱长 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1774,
+      "name": "洗地专家 锤石",
+      "soundIds": []
+    },
+    {
+      "id": 1775,
+      "name": "海兽祭司",
+      "soundIds": []
+    },
+    {
+      "id": 1776,
+      "name": "虚空使者 俄洛伊",
+      "soundIds": []
+    },
+    {
+      "id": 1777,
+      "name": "抵抗军炎魔 俄洛伊",
+      "soundIds": []
+    },
+    {
+      "id": 1778,
+      "name": "水瓶星神 俄洛伊",
+      "soundIds": []
+    },
+    {
+      "id": 1779,
+      "name": "净雪之月 俄洛伊",
+      "soundIds": []
+    },
+    {
+      "id": 1780,
+      "name": "幻灵巨熊 俄洛伊",
+      "soundIds": []
+    },
+    {
+      "id": 1781,
+      "name": "虚空遁地兽",
+      "soundIds": []
+    },
+    {
+      "id": 1782,
+      "name": "上古战魂 雷克塞",
+      "soundIds": []
+    },
+    {
+      "id": 1783,
+      "name": "泳池派对 雷克塞",
+      "soundIds": []
+    },
+    {
+      "id": 1784,
+      "name": "黯晶巨兽 雷克塞",
+      "soundIds": []
+    },
+    {
+      "id": 1785,
+      "name": "永恒之森 雷克塞",
+      "soundIds": []
+    },
+    {
+      "id": 1786,
+      "name": "海魔兽 雷克塞",
+      "soundIds": []
+    },
+    {
+      "id": 1787,
+      "name": "翠神",
+      "soundIds": []
+    },
+    {
+      "id": 1788,
+      "name": "糖果之王 艾翁",
+      "soundIds": []
+    },
+    {
+      "id": 1789,
+      "name": "灌篮高手 艾翁",
+      "soundIds": []
+    },
+    {
+      "id": 1790,
+      "name": "古神 艾翁",
+      "soundIds": []
+    },
+    {
+      "id": 1791,
+      "name": "宇航员 艾翁",
+      "soundIds": []
+    },
+    {
+      "id": 1792,
+      "name": "复仇之矛",
+      "soundIds": []
+    },
+    {
+      "id": 1793,
+      "name": "腥红之月 卡莉丝塔",
+      "soundIds": []
+    },
+    {
+      "id": 1794,
+      "name": "冠军之矛 卡莉丝塔",
+      "soundIds": []
+    },
+    {
+      "id": 1795,
+      "name": "SKT T1 卡莉丝塔",
+      "soundIds": []
+    },
+    {
+      "id": 1796,
+      "name": "黑暗骑士 卡莉丝塔",
+      "soundIds": []
+    },
+    {
+      "id": 1797,
+      "name": "花仙骑士 卡莉丝塔",
+      "soundIds": []
+    },
+    {
+      "id": 1798,
+      "name": "星界游神",
+      "soundIds": []
+    },
+    {
+      "id": 1799,
+      "name": "永恒之森 巴德",
+      "soundIds": []
+    },
+    {
+      "id": 1800,
+      "name": "冰雪游神 巴德",
+      "soundIds": []
+    },
+    {
+      "id": 1801,
+      "name": "巴德·吟游诗人",
+      "soundIds": []
+    },
+    {
+      "id": 1802,
+      "name": "宇航员 巴德",
+      "soundIds": []
+    },
+    {
+      "id": 1803,
+      "name": "咖啡甜心 巴德",
+      "soundIds": []
+    },
+    {
+      "id": 1804,
+      "name": "山海绘卷 巴德",
+      "soundIds": []
+    },
+    {
+      "id": 1805,
+      "name": "T1 巴德",
+      "soundIds": []
+    },
+    {
+      "id": 1806,
+      "name": "幻翎",
+      "soundIds": []
+    },
+    {
+      "id": 1807,
+      "name": "晨星之翎 洛",
+      "soundIds": []
+    },
+    {
+      "id": 1808,
+      "name": "甜心之翎 洛",
+      "soundIds": []
+    },
+    {
+      "id": 1809,
+      "name": "SSG 洛",
+      "soundIds": []
+    },
+    {
+      "id": 1810,
+      "name": "iG 洛",
+      "soundIds": []
+    },
+    {
+      "id": 1811,
+      "name": "星之守护者 洛",
+      "soundIds": []
+    },
+    {
+      "id": 1812,
+      "name": "永恒之森 洛",
+      "soundIds": []
+    },
+    {
+      "id": 1813,
+      "name": "比翼之心 洛",
+      "soundIds": []
+    },
+    {
+      "id": 1814,
+      "name": "绝息圣堂 洛",
+      "soundIds": []
+    },
+    {
+      "id": 1815,
+      "name": "星之守护者 净化之翎 洛",
+      "soundIds": []
+    },
+    {
+      "id": 1816,
+      "name": "神龙尊者 比翼之龙 洛",
+      "soundIds": []
+    },
+    {
+      "id": 1817,
+      "name": "至臻 神龙尊者 比翼之龙 洛",
+      "soundIds": []
+    },
+    {
+      "id": 1818,
+      "name": "逆羽",
+      "soundIds": []
+    },
+    {
+      "id": 1819,
+      "name": "暮星之羽 霞",
+      "soundIds": []
+    },
+    {
+      "id": 1820,
+      "name": "甜心之羽 霞",
+      "soundIds": []
+    },
+    {
+      "id": 1821,
+      "name": "SSG 霞",
+      "soundIds": []
+    },
+    {
+      "id": 1822,
+      "name": "星之守护者 霞",
+      "soundIds": []
+    },
+    {
+      "id": 1823,
+      "name": "永恒之森 霞",
+      "soundIds": []
+    },
+    {
+      "id": 1824,
+      "name": "神凰行者 烈羽焰凰 霞",
+      "soundIds": []
+    },
+    {
+      "id": 1825,
+      "name": "至臻 神凰行者 烈羽焰凰 霞",
+      "soundIds": []
+    },
+    {
+      "id": 1826,
+      "name": "比翼之心 霞",
+      "soundIds": []
+    },
+    {
+      "id": 1827,
+      "name": "绝息圣堂 霞",
+      "soundIds": []
+    },
+    {
+      "id": 1828,
+      "name": "星之守护者 净化之羽 霞",
+      "soundIds": []
+    },
+    {
+      "id": 1829,
+      "name": "幻灵蝙蝠 霞",
+      "soundIds": []
+    },
+    {
+      "id": 1830,
+      "name": "山隐之焰",
+      "soundIds": []
+    },
+    {
+      "id": 1831,
+      "name": "雷霆领主 奥恩",
+      "soundIds": []
+    },
+    {
+      "id": 1832,
+      "name": "永恒之森 奥恩",
+      "soundIds": []
+    },
+    {
+      "id": 1833,
+      "name": "太空律动 “创乐之神” 奥恩",
+      "soundIds": []
+    },
+    {
+      "id": 1834,
+      "name": "嘟！嘟 ！奥恩",
+      "soundIds": []
+    },
+    {
+      "id": 1835,
+      "name": "解脱者",
+      "soundIds": []
+    },
+    {
+      "id": 1836,
+      "name": "窃魂修罗 塞拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1837,
+      "name": "弗雷尔卓德 塞拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1838,
+      "name": "源计划：逆流 塞拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1839,
+      "name": "至臻 源计划：逆流 塞拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1840,
+      "name": "幻灵战斗狼 塞拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1841,
+      "name": "灰烬杀手 塞拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1842,
+      "name": "北极星发明家 塞拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1843,
+      "name": "暗星 塞拉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1844,
+      "name": "万花通灵",
+      "soundIds": []
+    },
+    {
+      "id": 1845,
+      "name": "冬境仙灵 妮蔻",
+      "soundIds": []
+    },
+    {
+      "id": 1846,
+      "name": "星之守护者 妮蔻",
+      "soundIds": []
+    },
+    {
+      "id": 1847,
+      "name": "至臻 星之守护者 妮蔻",
+      "soundIds": []
+    },
+    {
+      "id": 1848,
+      "name": "山海绘卷 妮蔻",
+      "soundIds": []
+    },
+    {
+      "id": 1849,
+      "name": "至臻 星之守护者 妮蔻 (2022)",
+      "soundIds": []
+    },
+    {
+      "id": 1850,
+      "name": "魅惑女巫 妮蔻",
+      "soundIds": []
+    },
+    {
+      "id": 1851,
+      "name": "妖怪艺术家 妮蔻",
+      "soundIds": []
+    },
+    {
+      "id": 1852,
+      "name": "超级COSPLAY粉丝 妮蔻",
+      "soundIds": []
+    },
+    {
+      "id": 1853,
+      "name": "残月之肃",
+      "soundIds": []
+    },
+    {
+      "id": 1854,
+      "name": "黑夜使者 厄斐琉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1855,
+      "name": "福牛守护者 厄斐琉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1856,
+      "name": "EDG 厄斐琉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1857,
+      "name": "灵魂莲华 厄斐琉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1858,
+      "name": "心之钢 厄斐琉斯",
+      "soundIds": []
+    },
+    {
+      "id": 1859,
+      "name": "镕铁少女",
+      "soundIds": []
+    },
+    {
+      "id": 1860,
+      "name": "女帝 芮尔",
+      "soundIds": []
+    },
+    {
+      "id": 1861,
+      "name": "星之守护者 芮尔",
+      "soundIds": []
+    },
+    {
+      "id": 1862,
+      "name": "西部魔影 芮尔",
+      "soundIds": []
+    },
+    {
+      "id": 1863,
+      "name": "血港鬼影",
+      "soundIds": []
+    },
+    {
+      "id": 1864,
+      "name": "怨之砂 派克",
+      "soundIds": []
+    },
+    {
+      "id": 1865,
+      "name": "腥红之月 派克",
+      "soundIds": []
+    },
+    {
+      "id": 1866,
+      "name": "源计划：毁灭 派克",
+      "soundIds": []
+    },
+    {
+      "id": 1867,
+      "name": "灵能特工 派克",
+      "soundIds": []
+    },
+    {
+      "id": 1868,
+      "name": "光明哨兵 派克",
+      "soundIds": []
+    },
+    {
+      "id": 1869,
+      "name": "灰烬骑士 派克",
+      "soundIds": []
+    },
+    {
+      "id": 1870,
+      "name": "至高天 派克",
+      "soundIds": []
+    },
+    {
+      "id": 1871,
+      "name": "斗魂觉醒 派克",
+      "soundIds": []
+    },
+    {
+      "id": 1872,
+      "name": "至臻 斗魂觉醒 派克",
+      "soundIds": []
+    },
+    {
+      "id": 1873,
+      "name": "魔域梦魇 派克",
+      "soundIds": []
+    },
+    {
+      "id": 1874,
+      "name": "愁云使者",
+      "soundIds": []
+    },
+    {
+      "id": 1875,
+      "name": "黎明使者 薇古丝",
+      "soundIds": []
+    },
+    {
+      "id": 1876,
+      "name": "至高天 薇古丝",
+      "soundIds": []
+    },
+    {
+      "id": 1877,
+      "name": "封魔剑魂",
+      "soundIds": []
+    },
+    {
+      "id": 1878,
+      "name": "灵魂莲华 永恩",
+      "soundIds": []
+    },
+    {
+      "id": 1879,
+      "name": "战斗学院 永恩",
+      "soundIds": []
+    },
+    {
+      "id": 1880,
+      "name": "黎明使者 永恩",
+      "soundIds": []
+    },
+    {
+      "id": 1881,
+      "name": "海之歌 永恩",
+      "soundIds": []
+    },
+    {
+      "id": 1882,
+      "name": "墨之影武者 永恩",
+      "soundIds": []
+    },
+    {
+      "id": 1883,
+      "name": "心之钢 永恩",
+      "soundIds": []
+    },
+    {
+      "id": 1884,
+      "name": "至臻 心之钢 永恩",
+      "soundIds": []
+    },
+    {
+      "id": 1885,
+      "name": "西部魔影 永恩",
+      "soundIds": []
+    },
+    {
+      "id": 1886,
+      "name": "西部魔影 炽天使 永恩",
+      "soundIds": []
+    },
+    {
+      "id": 1887,
+      "name": "正义假面 永恩",
+      "soundIds": []
+    },
+    {
+      "id": 1888,
+      "name": "铁血狼母",
+      "soundIds": []
+    },
+    {
+      "id": 1889,
+      "name": "狼神英灵 安蓓萨",
+      "soundIds": []
+    },
+    {
+      "id": 1890,
+      "name": "流光镜影",
+      "soundIds": []
+    },
+    {
+      "id": 1891,
+      "name": "皮城议员 梅尔",
+      "soundIds": []
+    },
+    {
+      "id": 1892,
+      "name": "腕豪",
+      "soundIds": []
+    },
+    {
+      "id": 1893,
+      "name": "王国机神苍狼 瑟提",
+      "soundIds": []
+    },
+    {
+      "id": 1894,
+      "name": "神龙尊者 炎龙瑟提",
+      "soundIds": []
+    },
+    {
+      "id": 1895,
+      "name": "至臻 神龙尊者 炎龙瑟提",
+      "soundIds": []
+    },
+    {
+      "id": 1896,
+      "name": "泳池派对 瑟提",
+      "soundIds": []
+    },
+    {
+      "id": 1897,
+      "name": "龙腾虎跃 瑟提",
+      "soundIds": []
+    },
+    {
+      "id": 1898,
+      "name": "灵魂莲华 瑟提",
+      "soundIds": []
+    },
+    {
+      "id": 1899,
+      "name": "斗魂觉醒 瑟提",
+      "soundIds": []
+    },
+    {
+      "id": 1900,
+      "name": "心之钢 瑟提",
+      "soundIds": []
+    },
+    {
+      "id": 1901,
+      "name": "金蛇巨星 瑟提",
+      "soundIds": []
+    },
+    {
+      "id": 1902,
+      "name": "含羞蓓蕾",
+      "soundIds": []
+    },
+    {
+      "id": 1903,
+      "name": "灵魂莲华 莉莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 1904,
+      "name": "黑夜使者 莉莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 1905,
+      "name": "山海绘卷 莉莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 1906,
+      "name": "花仙子 莉莉娅",
+      "soundIds": []
+    },
+    {
+      "id": 1907,
+      "name": "灵罗娃娃",
+      "soundIds": []
+    },
+    {
+      "id": 1908,
+      "name": "太空律动 “百万调音” 格温",
+      "soundIds": []
+    },
+    {
+      "id": 1909,
+      "name": "咖啡甜心 格温",
+      "soundIds": []
+    },
+    {
+      "id": 1910,
+      "name": "斗魂觉醒 格温",
+      "soundIds": []
+    },
+    {
+      "id": 1911,
+      "name": "女帝 格温",
+      "soundIds": []
+    },
+    {
+      "id": 1912,
+      "name": "炼金男爵",
+      "soundIds": []
+    },
+    {
+      "id": 1913,
+      "name": "舰队司令 烈娜塔",
+      "soundIds": []
+    },
+    {
+      "id": 1914,
+      "name": "魔域梦魇 烈娜塔",
+      "soundIds": []
+    },
+    {
+      "id": 1915,
+      "name": "魂蔷薇 烈娜塔",
+      "soundIds": []
+    },
+    {
+      "id": 1916,
+      "name": "至臻 魂蔷薇 烈娜塔",
+      "soundIds": []
+    },
+    {
+      "id": 1917,
+      "name": "黑色玫瑰假面舞会 烈娜塔",
+      "soundIds": []
+    },
+    {
+      "id": 1918,
+      "name": "双界灵兔",
+      "soundIds": []
+    },
+    {
+      "id": 1919,
+      "name": "幻灵战斗兔 阿萝拉",
+      "soundIds": []
+    },
+    {
+      "id": 1920,
+      "name": "不羁之悦",
+      "soundIds": []
+    },
+    {
+      "id": 1921,
+      "name": "星之守护者 尼菈",
+      "soundIds": []
+    },
+    {
+      "id": 1922,
+      "name": "魔女 尼菈",
+      "soundIds": []
+    },
+    {
+      "id": 1923,
+      "name": "纳祖芒荣耀",
+      "soundIds": []
+    },
+    {
+      "id": 1924,
+      "name": "至高天 奎桑提",
+      "soundIds": []
+    },
+    {
+      "id": 1925,
+      "name": "至臻 至高天 奎桑提",
+      "soundIds": []
+    },
+    {
+      "id": 1926,
+      "name": "心之钢 奎桑提",
+      "soundIds": []
+    },
+    {
+      "id": 1927,
+      "name": "炽炎雏龙",
+      "soundIds": []
+    },
+    {
+      "id": 1928,
+      "name": "天龙之子 斯莫德",
+      "soundIds": []
+    },
+    {
+      "id": 1929,
+      "name": "明烛",
+      "soundIds": []
+    },
+    {
+      "id": 1930,
+      "name": "花仙贤者 米利欧",
+      "soundIds": []
+    },
+    {
+      "id": 1931,
+      "name": "青蛙雨衣 米利欧",
+      "soundIds": []
+    },
+    {
+      "id": 1932,
+      "name": "异画师",
+      "soundIds": []
+    },
+    {
+      "id": 1933,
+      "name": "北极星使者 彗",
+      "soundIds": []
+    },
+    {
+      "id": 1934,
+      "name": "百裂冥犬",
+      "soundIds": []
+    },
+    {
+      "id": 1935,
+      "name": "斗魂觉醒 纳亚菲利",
+      "soundIds": []
+    },
+    {
+      "id": 1936,
+      "name": "源计划：狂猎 纳亚菲利",
+      "soundIds": []
+    }
+  ]
+}
